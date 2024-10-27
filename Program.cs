@@ -1,7 +1,22 @@
-var builder = WebApplication.CreateBuilder(args);
+using ClassLibrary.Repositorries.Entities;
+using ClassLibrary.Repositorries.Interfaces;
+using ClassLibrary.Repositorries.Repositorries;
+using ClassLibrary.Services.Interfaces;
+using ClassLibrary.Services.Services;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
 
-// Add services to the container.
+var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddRazorPages();
+
+builder.Services.AddDbContext<QuanliwedContext>(options =>
+{
+    options.UseSqlServer(builder.Configuration.GetConnectionString(""));
+});
+builder.Services.AddScoped<IKoifishRepositorries, KoifishRepositorries>();
+
+builder.Services.AddScoped<IKoifish,KoifishServices>();
+// Add services to the container.
 
 var app = builder.Build();
 
@@ -23,3 +38,6 @@ app.UseAuthorization();
 app.MapRazorPages();
 
 app.Run();
+
+
+
