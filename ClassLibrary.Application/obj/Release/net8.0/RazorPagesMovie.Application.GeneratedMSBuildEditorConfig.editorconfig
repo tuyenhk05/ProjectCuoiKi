@@ -17,59 +17,59 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = RazorPagesMovie.Application
 build_property.RootNamespace = RazorPagesMovie.Application
-build_property.ProjectDir = C:\Users\HUYNH KIM TUYEN\source\repos\ClassLibrary.Application\
+build_property.ProjectDir = C:\Users\HUYNH KIM TUYEN\source\repos\BTL\404\ClassLibrary.Application\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\HUYNH KIM TUYEN\source\repos\ClassLibrary.Application
+build_property.MSBuildProjectDirectory = C:\Users\HUYNH KIM TUYEN\source\repos\BTL\404\ClassLibrary.Application
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/HUYNH KIM TUYEN/source/repos/ClassLibrary.Application/Pages/Error.cshtml]
+[C:/Users/HUYNH KIM TUYEN/source/repos/BTL/404/ClassLibrary.Application/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HUYNH KIM TUYEN/source/repos/ClassLibrary.Application/Pages/Index.cshtml]
+[C:/Users/HUYNH KIM TUYEN/source/repos/BTL/404/ClassLibrary.Application/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HUYNH KIM TUYEN/source/repos/ClassLibrary.Application/Pages/KoiFish/Create.cshtml]
+[C:/Users/HUYNH KIM TUYEN/source/repos/BTL/404/ClassLibrary.Application/Pages/KoiFish/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcS29pRmlzaFxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HUYNH KIM TUYEN/source/repos/ClassLibrary.Application/Pages/KoiFish/Delete.cshtml]
+[C:/Users/HUYNH KIM TUYEN/source/repos/BTL/404/ClassLibrary.Application/Pages/KoiFish/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcS29pRmlzaFxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HUYNH KIM TUYEN/source/repos/ClassLibrary.Application/Pages/KoiFish/Details.cshtml]
+[C:/Users/HUYNH KIM TUYEN/source/repos/BTL/404/ClassLibrary.Application/Pages/KoiFish/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcS29pRmlzaFxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HUYNH KIM TUYEN/source/repos/ClassLibrary.Application/Pages/KoiFish/Edit.cshtml]
+[C:/Users/HUYNH KIM TUYEN/source/repos/BTL/404/ClassLibrary.Application/Pages/KoiFish/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcS29pRmlzaFxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HUYNH KIM TUYEN/source/repos/ClassLibrary.Application/Pages/KoiFish/Index.cshtml]
+[C:/Users/HUYNH KIM TUYEN/source/repos/BTL/404/ClassLibrary.Application/Pages/KoiFish/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcS29pRmlzaFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HUYNH KIM TUYEN/source/repos/ClassLibrary.Application/Pages/Privacy.cshtml]
+[C:/Users/HUYNH KIM TUYEN/source/repos/BTL/404/ClassLibrary.Application/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HUYNH KIM TUYEN/source/repos/ClassLibrary.Application/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/HUYNH KIM TUYEN/source/repos/BTL/404/ClassLibrary.Application/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HUYNH KIM TUYEN/source/repos/ClassLibrary.Application/Pages/_ViewImports.cshtml]
+[C:/Users/HUYNH KIM TUYEN/source/repos/BTL/404/ClassLibrary.Application/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HUYNH KIM TUYEN/source/repos/ClassLibrary.Application/Pages/_ViewStart.cshtml]
+[C:/Users/HUYNH KIM TUYEN/source/repos/BTL/404/ClassLibrary.Application/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HUYNH KIM TUYEN/source/repos/ClassLibrary.Application/Pages/Shared/_Layout.cshtml]
+[C:/Users/HUYNH KIM TUYEN/source/repos/BTL/404/ClassLibrary.Application/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-lgt9qq1bu7
