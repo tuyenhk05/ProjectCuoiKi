@@ -261,3 +261,6 @@ C:\Users\HUYNH KIM TUYEN\source\repos\RazorPagesMovie\bin\Debug\net8.0\runtimes\
 C:\Users\HUYNH KIM TUYEN\source\repos\RazorPagesMovie\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 C:\Users\HUYNH KIM TUYEN\source\repos\RazorPagesMovie\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\HUYNH KIM TUYEN\source\repos\RazorPagesMovie\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\HUYNH KIM TUYEN\source\repos\BTL\404\ClassLibrary.Application\obj\Debug\net8.0\RazorPagesMovie.Application.dll
+C:\Users\HUYNH KIM TUYEN\source\repos\BTL\404\ClassLibrary.Application\obj\Debug\net8.0\refint\RazorPagesMovie.Application.dll
+C:\Users\HUYNH KIM TUYEN\source\repos\BTL\404\ClassLibrary.Application\obj\Debug\net8.0\RazorPagesMovie.Application.pdb

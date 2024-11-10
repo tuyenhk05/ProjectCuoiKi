@@ -3,28 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\BTL\\404\\ClassLibrary.Application\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{82356475-DD44-4335-B865-2E7BC918ACEB}|..\\ClassLibrary.Services\\ClassLibrary.Services.csproj|c:\\users\\huynh kim tuyen\\source\\repos\\btl\\404\\classlibrary.services\\services\\shoppingcartservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{40F21432-5532-495B-B749-C65ED3476D02}|RazorPagesMovie.Application.csproj|c:\\users\\huynh kim tuyen\\source\\repos\\btl\\404\\classlibrary.application\\pages\\accout\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40F21432-5532-495B-B749-C65ED3476D02}|RazorPagesMovie.Application.csproj|solutionrelative:pages\\accout\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82356475-DD44-4335-B865-2E7BC918ACEB}|..\\ClassLibrary.Services\\ClassLibrary.Services.csproj|c:\\users\\huynh kim tuyen\\source\\repos\\btl\\404\\classlibrary.services\\interfaces\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82356475-DD44-4335-B865-2E7BC918ACEB}|..\\ClassLibrary.Services\\ClassLibrary.Services.csproj|c:\\users\\huynh kim tuyen\\source\\repos\\btl\\404\\classlibrary.services\\interfaces\\ishoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82356475-DD44-4335-B865-2E7BC918ACEB}|..\\ClassLibrary.Services\\ClassLibrary.Services.csproj|c:\\users\\huynh kim tuyen\\source\\repos\\btl\\404\\classlibrary.services\\services\\employeeservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82356475-DD44-4335-B865-2E7BC918ACEB}|..\\ClassLibrary.Services\\ClassLibrary.Services.csproj|c:\\users\\huynh kim tuyen\\source\\repos\\btl\\404\\classlibrary.services\\interfaces\\ikoifish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82356475-DD44-4335-B865-2E7BC918ACEB}|..\\ClassLibrary.Services\\ClassLibrary.Services.csproj|c:\\users\\huynh kim tuyen\\source\\repos\\btl\\404\\classlibrary.services\\services\\customersevices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82356475-DD44-4335-B865-2E7BC918ACEB}|..\\ClassLibrary.Services\\ClassLibrary.Services.csproj|c:\\users\\huynh kim tuyen\\source\\repos\\btl\\404\\classlibrary.services\\services\\koifishservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82356475-DD44-4335-B865-2E7BC918ACEB}|..\\ClassLibrary.Services\\ClassLibrary.Services.csproj|c:\\users\\huynh kim tuyen\\source\\repos\\btl\\404\\classlibrary.services\\interfaces\\icustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{40F21432-5532-495B-B749-C65ED3476D02}|RazorPagesMovie.Application.csproj|c:\\users\\huynh kim tuyen\\source\\repos\\btl\\404\\classlibrary.application\\pages\\accout\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40F21432-5532-495B-B749-C65ED3476D02}|RazorPagesMovie.Application.csproj|solutionrelative:pages\\accout\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,100 +30,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IShoppingCart.cs",
-              "DocumentMoniker": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\BTL\\404\\ClassLibrary.Services\\Interfaces\\IShoppingCart.cs",
-              "RelativeDocumentMoniker": "..\\ClassLibrary.Services\\Interfaces\\IShoppingCart.cs",
-              "ToolTip": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\BTL\\404\\ClassLibrary.Services\\Interfaces\\IShoppingCart.cs",
-              "RelativeToolTip": "..\\ClassLibrary.Services\\Interfaces\\IShoppingCart.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABEAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\BTL\\404\\ClassLibrary.Application\\Pages\\Accout\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Accout\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\BTL\\404\\ClassLibrary.Application\\Pages\\Accout\\Login.cshtml.cs*",
+              "RelativeToolTip": "Pages\\Accout\\Login.cshtml.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T10:20:01.827Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ShoppingCartServices.cs",
-              "DocumentMoniker": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\BTL\\404\\ClassLibrary.Services\\Services\\ShoppingCartServices.cs",
-              "RelativeDocumentMoniker": "..\\ClassLibrary.Services\\Services\\ShoppingCartServices.cs",
-              "ToolTip": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\BTL\\404\\ClassLibrary.Services\\Services\\ShoppingCartServices.cs",
-              "RelativeToolTip": "..\\ClassLibrary.Services\\Services\\ShoppingCartServices.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAYwAoAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T10:19:42.766Z",
+              "WhenOpened": "2024-11-10T08:21:38.911Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IEmployee.cs",
-              "DocumentMoniker": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\BTL\\404\\ClassLibrary.Services\\Interfaces\\IEmployee.cs",
-              "RelativeDocumentMoniker": "..\\ClassLibrary.Services\\Interfaces\\IEmployee.cs",
-              "ToolTip": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\BTL\\404\\ClassLibrary.Services\\Interfaces\\IEmployee.cs",
-              "RelativeToolTip": "..\\ClassLibrary.Services\\Interfaces\\IEmployee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T10:14:07.567Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "EmployeeServices.cs",
-              "DocumentMoniker": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\BTL\\404\\ClassLibrary.Services\\Services\\EmployeeServices.cs",
-              "RelativeDocumentMoniker": "..\\ClassLibrary.Services\\Services\\EmployeeServices.cs",
-              "ToolTip": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\BTL\\404\\ClassLibrary.Services\\Services\\EmployeeServices.cs",
-              "RelativeToolTip": "..\\ClassLibrary.Services\\Services\\EmployeeServices.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T10:13:48.917Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ICustomer.cs",
-              "DocumentMoniker": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\BTL\\404\\ClassLibrary.Services\\Interfaces\\ICustomer.cs",
-              "RelativeDocumentMoniker": "..\\ClassLibrary.Services\\Interfaces\\ICustomer.cs",
-              "ToolTip": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\BTL\\404\\ClassLibrary.Services\\Interfaces\\ICustomer.cs",
-              "RelativeToolTip": "..\\ClassLibrary.Services\\Interfaces\\ICustomer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T10:10:56.46Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IKoifish.cs",
-              "DocumentMoniker": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\BTL\\404\\ClassLibrary.Services\\Interfaces\\IKoifish.cs",
-              "RelativeDocumentMoniker": "..\\ClassLibrary.Services\\Interfaces\\IKoifish.cs",
-              "ToolTip": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\BTL\\404\\ClassLibrary.Services\\Interfaces\\IKoifish.cs",
-              "RelativeToolTip": "..\\ClassLibrary.Services\\Interfaces\\IKoifish.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T10:10:49.639Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Koifishservices.cs",
-              "DocumentMoniker": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\BTL\\404\\ClassLibrary.Services\\Services\\Koifishservices.cs",
-              "RelativeDocumentMoniker": "..\\ClassLibrary.Services\\Services\\Koifishservices.cs",
-              "ToolTip": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\BTL\\404\\ClassLibrary.Services\\Services\\Koifishservices.cs",
-              "RelativeToolTip": "..\\ClassLibrary.Services\\Services\\Koifishservices.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAA1wAsAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T10:08:12.851Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CustomerSevices.cs",
-              "DocumentMoniker": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\BTL\\404\\ClassLibrary.Services\\Services\\CustomerSevices.cs",
-              "RelativeDocumentMoniker": "..\\ClassLibrary.Services\\Services\\CustomerSevices.cs",
-              "ToolTip": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\BTL\\404\\ClassLibrary.Services\\Services\\CustomerSevices.cs",
-              "RelativeToolTip": "..\\ClassLibrary.Services\\Services\\CustomerSevices.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T10:08:29.107Z"
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\BTL\\404\\ClassLibrary.Application\\Pages\\Accout\\Login.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Accout\\Login.cshtml",
+              "ToolTip": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\BTL\\404\\ClassLibrary.Application\\Pages\\Accout\\Login.cshtml*",
+              "RelativeToolTip": "Pages\\Accout\\Login.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T08:21:28.377Z",
+              "EditorCaption": ""
             }
           ]
         }

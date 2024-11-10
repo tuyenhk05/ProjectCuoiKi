@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RazorPagesMovie.Application
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary.Repositorries", "..\ClassLibrary.voicom\ClassLibrary.Repositorries.csproj", "{ECB215AA-EC13-4A52-88DA-3326BD8DB5D2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary.Services", "..\ClassLibrary.Services\ClassLibrary.Services.csproj", "{82356475-DD44-4335-B865-2E7BC918ACEB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassLibrary.Services", "..\ClassLibrary.Services\ClassLibrary.Services.csproj", "{82356475-DD44-4335-B865-2E7BC918ACEB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

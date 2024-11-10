@@ -26,6 +26,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\HUYNH KIM TUYEN\source\repos\BTL\404\ClassLibrary.Application
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/HUYNH KIM TUYEN/source/repos/BTL/404/ClassLibrary.Application/Pages/Accout/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3V0XExvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/HUYNH KIM TUYEN/source/repos/BTL/404/ClassLibrary.Application/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
