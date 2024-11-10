@@ -34,8 +34,16 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -46,8 +54,7 @@
               "RelativeToolTip": "..\\ClassLibrary.Services\\Interfaces\\IShoppingCart.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T10:20:01.827Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-07T10:20:01.827Z"
             },
             {
               "$type": "Document",
@@ -72,8 +79,7 @@
               "RelativeToolTip": "..\\ClassLibrary.Services\\Interfaces\\IEmployee.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T10:14:07.567Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-07T10:14:07.567Z"
             },
             {
               "$type": "Document",
@@ -85,8 +91,7 @@
               "RelativeToolTip": "..\\ClassLibrary.Services\\Services\\EmployeeServices.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T10:13:48.917Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-07T10:13:48.917Z"
             },
             {
               "$type": "Document",
@@ -98,8 +103,7 @@
               "RelativeToolTip": "..\\ClassLibrary.Services\\Interfaces\\ICustomer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T10:10:56.46Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-07T10:10:56.46Z"
             },
             {
               "$type": "Document",
@@ -111,8 +115,7 @@
               "RelativeToolTip": "..\\ClassLibrary.Services\\Interfaces\\IKoifish.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T10:10:49.639Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-07T10:10:49.639Z"
             },
             {
               "$type": "Document",
@@ -124,16 +127,7 @@
               "RelativeToolTip": "..\\ClassLibrary.Services\\Services\\Koifishservices.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAA1wAsAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T10:08:12.851Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:2:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "WhenOpened": "2024-11-07T10:08:12.851Z"
             },
             {
               "$type": "Document",
@@ -145,8 +139,7 @@
               "RelativeToolTip": "..\\ClassLibrary.Services\\Services\\CustomerSevices.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T10:08:29.107Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-07T10:08:29.107Z"
             }
           ]
         }
