@@ -7,13 +7,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ClassLibrary.Repositorries.Interfaces.Repositorries
+namespace ClassLibrary.Repositorries.Repositorries
 {
     public class KoifishRepositorries : IKoifishRepositorries
     {
         private readonly QuanliwedContext _dbContext;
-        public KoifishRepositorries(QuanliwedContext dbContext)
-        {
+        public KoifishRepositorries(QuanliwedContext dbContext ) {
             _dbContext = dbContext;
         }
 
@@ -21,8 +20,6 @@ namespace ClassLibrary.Repositorries.Interfaces.Repositorries
         {
             throw new NotImplementedException();
         }
-
-
 
         public bool DelKoiFish(int koiFishId)
         {
@@ -41,13 +38,12 @@ namespace ClassLibrary.Repositorries.Interfaces.Repositorries
             {
                 koifishes = await _dbContext.KoiFishes.ToListAsync();
             }
-            catch (Exception ex)
-            {
+            catch (Exception ex){
                 koifishes?.Add(new KoiFish());
             }
-
+            
             return koifishes;
-
+            
         }
 
         public async Task<IList<KoiFish>> ToListAsync()
