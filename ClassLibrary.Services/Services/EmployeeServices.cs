@@ -1,4 +1,5 @@
 ﻿using ClassLibrary.Repositorries.Entities;
+using ClassLibrary.Repositorries.Interfaces;
 using ClassLibrary.Services.Interfaces;
 using System;
 using System.Collections.Generic;
@@ -8,8 +9,13 @@ using System.Threading.Tasks;
 
 namespace ClassLibrary.Services.Services
 {
-    internal class EmployeeServices : IEmployee
+    public class EmployeeServices : IEmployee
     {
+        private readonly IEmployeeRepositorries _employeeRepositorries;
+        public EmployeeServices(IEmployeeRepositorries employeeRepositorries)
+        {
+            _employeeRepositorries = employeeRepositorries;
+        }
         public Task<int> AddEmployeeAsync(int employeeId)
         {
             throw new NotImplementedException();
@@ -25,11 +31,7 @@ namespace ClassLibrary.Services.Services
             throw new NotImplementedException();
         }
 
-        public Task<List<IEmployee>> GetEmployeeAsync()
-        {
-            throw new NotImplementedException();
-        }
-
+      
        
 
         public Task<int> RemoveEmployeeAsync(int employeeId)
@@ -37,7 +39,32 @@ namespace ClassLibrary.Services.Services
             throw new NotImplementedException();
         }
 
-        public Task<int> UpdateEmployeeAsync(IEmployee employee)
+        Task<int> IEmployee.AddEmployeeAsync(int employeeId)
+        {
+            throw new NotImplementedException();
+        }
+
+        Task<bool> IEmployee.DeleteEmployeeAsync(int employeeId)
+        {
+            throw new NotImplementedException();
+        }
+
+        Task<IList<Employee>> IEmployee.Employees()
+        {
+            throw new NotImplementedException();
+        }
+
+        Task<List<IEmployee>> IEmployee.GetEmployeeAsync()
+        {
+            throw new NotImplementedException();
+        }
+
+        Task<int> IEmployee.RemoveEmployeeAsync(int employeeId)
+        {
+            throw new NotImplementedException();
+        }
+
+        Task<int> IEmployee.UpdateEmployeeAsync(IEmployee employee)
         {
             throw new NotImplementedException();
         }

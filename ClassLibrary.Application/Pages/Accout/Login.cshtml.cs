@@ -10,8 +10,14 @@ namespace RazorPagesMovie.Application.Pages.Accout
         public Credential Credential { get; set; }
         public void OnGet()
         {
-            this.Credential = new Credential { UserName = "admin" };
+            Credential = new Credential
+            {
+                UserName = "admin",
+                Password = ""
+
+            };
         }
+
         public void OnPost()
         {
 
@@ -22,10 +28,10 @@ namespace RazorPagesMovie.Application.Pages.Accout
     {
         [Required]
         [Display(Name="User Name")]
-        public string UserName {  get; set; }
+        public string UserName { get; set; }
         [Required]
         [DataType(DataType.Password)]
-        public string Password { get; set; }
+        public required string Password { get; set; }
     }
 
   

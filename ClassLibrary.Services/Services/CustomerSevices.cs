@@ -1,4 +1,5 @@
-﻿using ClassLibrary.Services.Interfaces;
+﻿using ClassLibrary.Repositorries.Interfaces;
+using ClassLibrary.Services.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,8 +8,13 @@ using System.Threading.Tasks;
 
 namespace ClassLibrary.Services.Services
 {
-    internal class CustomerSevices : ICustomer
+    public class CustomerSevices : ICustomer
     {
+        private readonly ICustomerRepositorries _customerRepositorries;
+        public CustomerSevices(ICustomerRepositorries customerRepositorries)
+        {
+            _customerRepositorries = customerRepositorries;
+        }
         public Task<int> AddCustomerAsync(int customerId)
         {
             throw new NotImplementedException();
@@ -19,7 +25,7 @@ namespace ClassLibrary.Services.Services
             throw new NotImplementedException();
         }
 
-        public Task<List<ICustomer>> GetCustomerAsync()
+        Task<List<ICustomer>> ICustomer.GetCustomerAsync()
         {
             throw new NotImplementedException();
         }

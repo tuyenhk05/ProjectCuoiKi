@@ -1,4 +1,6 @@
 ﻿using ClassLibrary.Repositorries.Entities;
+using ClassLibrary.Repositorries.Interfaces;
+using ClassLibrary.Repositorries.Repositorries;
 using ClassLibrary.Services.Interfaces;
 using System;
 using System.Collections.Generic;
@@ -9,8 +11,16 @@ using System.Threading.Tasks;
 
 namespace ClassLibrary.Services.Services
 {
-    internal class ShoppingCartServices : IShoppingCart
+    public class ShoppingCartServices : IShoppingCart
     {
+        private readonly IShoppingCartRepositorries _shoppingCartRepositorries;
+
+        public ShoppingCartServices(IShoppingCartRepositorries ShoppingCartRepositorries)
+        {
+            ShoppingCartRepositorries = _shoppingCartRepositorries;
+        }
+
+
         public Task<int> AddShoppingCartAsync(int shoppingcartId)
         {
             throw new NotImplementedException();
@@ -21,11 +31,10 @@ namespace ClassLibrary.Services.Services
             throw new NotImplementedException();
         }
 
-        public Task<List<IShoppingCart>> GetShoppingCartAsync()
+        public async Task<List<ShoppingCart>> GetShoppingCartAsync()
         {
-            throw new NotImplementedException();
+            return await _shoppingCartRepositorries.GetShoppingCarts();
         }
-
         public Task<int> RemoveShoppingCartAsync(int shoppingcartId)
         {
             throw new NotImplementedException();
@@ -36,12 +45,33 @@ namespace ClassLibrary.Services.Services
             throw new NotImplementedException();
         }
 
-        public Task<int> UpdateShoppingCartAsync(IShoppingCart shoppingcart)
+
+        Task<int> IShoppingCart.AddShoppingCartAsync(int shoppingcartId)
+        {
+            throw new NotImplementedException();
+        }
+
+        Task<bool> IShoppingCart.DeleteShoppingCartAsync(int shoppingcartId)
+        {
+            throw new NotImplementedException();
+        }
+
+        Task<List<IShoppingCart>> IShoppingCart.GetShoppingCartAsync()
+        {
+            throw new NotImplementedException();
+        }
+
+        Task<int> IShoppingCart.RemoveShoppingCartAsync(int shoppingcartId)
         {
             throw new NotImplementedException();
         }
 
         Task<IList<ShoppingCart>> IShoppingCart.ShoppingCarts()
+        {
+            throw new NotImplementedException();
+        }
+
+        Task<int> IShoppingCart.UpdateShoppingCartAsync(IShoppingCart shoppingcart)
         {
             throw new NotImplementedException();
         }
