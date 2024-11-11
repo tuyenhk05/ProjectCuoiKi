@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RazorPagesMovie.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d3d1a6536a0e2a504e2296402f8f7c32a6643a68")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9de32a92b2f3a89af6ec9ba6ec135046ff736f25")]
 [assembly: System.Reflection.AssemblyProductAttribute("RazorPagesMovie.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RazorPagesMovie.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
