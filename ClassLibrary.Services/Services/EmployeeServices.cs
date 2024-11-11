@@ -1,4 +1,5 @@
-﻿using ClassLibrary.Services.Interfaces;
+﻿using ClassLibrary.Repositorries.Entities;
+using ClassLibrary.Services.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -19,15 +20,17 @@ namespace ClassLibrary.Services.Services
             throw new NotImplementedException();
         }
 
+        public Task<IList<Employee>> Employees()
+        {
+            throw new NotImplementedException();
+        }
+
         public Task<List<IEmployee>> GetEmployeeAsync()
         {
             throw new NotImplementedException();
         }
 
-        public Task<IList<Employee>> KoiFishs()
-        {
-            throw new NotImplementedException();
-        }
+       
 
         public Task<int> RemoveEmployeeAsync(int employeeId)
         {

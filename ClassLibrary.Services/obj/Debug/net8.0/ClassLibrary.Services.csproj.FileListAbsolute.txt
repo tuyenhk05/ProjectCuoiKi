@@ -13,6 +13,9 @@ C:\Users\HUYNH KIM TUYEN\source\repos\ClassLibrary.Services\obj\Debug\net8.0\Cla
 C:\Users\HUYNH KIM TUYEN\source\repos\ClassLibrary.Services\obj\Debug\net8.0\refint\ClassLibrary.Services.dll
 C:\Users\HUYNH KIM TUYEN\source\repos\ClassLibrary.Services\obj\Debug\net8.0\ClassLibrary.Services.pdb
 C:\Users\HUYNH KIM TUYEN\source\repos\ClassLibrary.Services\obj\Debug\net8.0\ref\ClassLibrary.Services.dll
-C:\Users\HUYNH KIM TUYEN\source\repos\BTL\404\ClassLibrary.Services\obj\Debug\net8.0\ClassLibrary.Services.dll
-C:\Users\HUYNH KIM TUYEN\source\repos\BTL\404\ClassLibrary.Services\obj\Debug\net8.0\refint\ClassLibrary.Services.dll
-C:\Users\HUYNH KIM TUYEN\source\repos\BTL\404\ClassLibrary.Services\obj\Debug\net8.0\ClassLibrary.Services.pdb
+C:\Users\HUYNH KIM TUYEN\source\repos\BTL\404\ClassLibrary.Services\obj\Debug\net8.0\ClassLibrary.Services.csproj.AssemblyReference.cache
+C:\Users\HUYNH KIM TUYEN\source\repos\BTL\404\ClassLibrary.Services\obj\Debug\net8.0\ClassLibrary.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HUYNH KIM TUYEN\source\repos\BTL\404\ClassLibrary.Services\obj\Debug\net8.0\ClassLibrary.Services.AssemblyInfoInputs.cache
+C:\Users\HUYNH KIM TUYEN\source\repos\BTL\404\ClassLibrary.Services\obj\Debug\net8.0\ClassLibrary.Services.AssemblyInfo.cs
+C:\Users\HUYNH KIM TUYEN\source\repos\BTL\404\ClassLibrary.Services\obj\Debug\net8.0\ClassLibrary.Services.csproj.CoreCompileInputs.cache
+C:\Users\HUYNH KIM TUYEN\source\repos\BTL\404\ClassLibrary.Services\obj\Debug\net8.0\ClassLibrary.Services.sourcelink.json

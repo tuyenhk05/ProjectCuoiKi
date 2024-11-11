@@ -1,4 +1,5 @@
-﻿using ClassLibrary.Services.Interfaces;
+﻿using ClassLibrary.Repositorries.Entities;
+using ClassLibrary.Services.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -40,6 +41,9 @@ namespace ClassLibrary.Services.Services
             throw new NotImplementedException();
         }
 
-
+        Task<IList<ShoppingCart>> IShoppingCart.ShoppingCarts()
+        {
+            throw new NotImplementedException();
+        }
     }
 }

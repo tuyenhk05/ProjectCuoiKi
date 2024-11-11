@@ -7,7 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ClassLibrary.voicom\ClassLibrary.Repositorries.csproj" />
+    <ProjectReference Include="..\ClassLibrary.Repositorries\ClassLibrary.Repositorries.csproj" />
   </ItemGroup>
 
 </Project>
