@@ -26,12 +26,20 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\HUYNH KIM TUYEN\source\repos\BTL\404\ClassLibrary.Application
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/HUYNH KIM TUYEN/source/repos/BTL/404/ClassLibrary.Application/Pages/404.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcNDA0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/HUYNH KIM TUYEN/source/repos/BTL/404/ClassLibrary.Application/Pages/Accout/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3V0XExvZ2luLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/HUYNH KIM TUYEN/source/repos/BTL/404/ClassLibrary.Application/Pages/Accout/Logout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3V0XExvZ291dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HUYNH KIM TUYEN/source/repos/BTL/404/ClassLibrary.Application/Pages/cart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY2FydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/HUYNH KIM TUYEN/source/repos/BTL/404/ClassLibrary.Application/Pages/CartD/Create.cshtml]
@@ -52,6 +60,14 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/HUYNH KIM TUYEN/source/repos/BTL/404/ClassLibrary.Application/Pages/CartD/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FydERcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HUYNH KIM TUYEN/source/repos/BTL/404/ClassLibrary.Application/Pages/chackout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY2hhY2tvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HUYNH KIM TUYEN/source/repos/BTL/404/ClassLibrary.Application/Pages/contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY29udGFjdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/HUYNH KIM TUYEN/source/repos/BTL/404/ClassLibrary.Application/Pages/Error.cshtml]
@@ -88,6 +104,18 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/HUYNH KIM TUYEN/source/repos/BTL/404/ClassLibrary.Application/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HUYNH KIM TUYEN/source/repos/BTL/404/ClassLibrary.Application/Pages/shop-detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcc2hvcC1kZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HUYNH KIM TUYEN/source/repos/BTL/404/ClassLibrary.Application/Pages/Shop.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hvcC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HUYNH KIM TUYEN/source/repos/BTL/404/ClassLibrary.Application/Pages/testimonial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcdGVzdGltb25pYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/HUYNH KIM TUYEN/source/repos/BTL/404/ClassLibrary.Application/Pages/_ViewImports.cshtml]

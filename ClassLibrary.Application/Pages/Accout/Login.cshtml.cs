@@ -36,7 +36,7 @@ namespace RazorPagesMovie.Application.Pages.Accout
                 var identity = new ClaimsIdentity(claims, "MyCookieAuth");
                 ClaimsPrincipal claimsPrincipal = new ClaimsPrincipal(identity);
                 await HttpContext.SignInAsync("MyCookieAuth", claimsPrincipal);
-                return RedirectToPage("/Index");
+                return RedirectToPage("/Pages/Index");
             }
 
             ModelState.AddModelError(string.Empty, "Tên đăng nhập hoặc mật khẩu không đúng.");
