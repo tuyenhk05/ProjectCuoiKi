@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ClassLibrary.Application",
+    "\\ClassLibrary.Application\\Pages",
+    "\\ClassLibrary.Application\\Pages\\Accout",
+    "\\ClassLibrary.Application\\Properties",
+    "\\ClassLibrary.Repositorries",
+    "\\ClassLibrary.Repositorries\\Repositorries",
+    "\\ClassLibrary.Services",
+    "\\ClassLibrary.Services\\Interfaces",
+    "\\ClassLibrary.Services\\Services"
+  ],
+  "SelectedNode": "\\ClassLibrary.Services\\ClassLibrary.Services.csproj",
+  "PreviewInSolutionExplorer": false
+}

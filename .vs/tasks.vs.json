@@ -1,0 +1,25 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-IOrderDetailRepositorries",
+      "appliesTo": "ClassLibrary.Repositorries/Interfaces/IOrderDetailRepositorries.cs",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-IOrderDetailRepositorries",
+      "appliesTo": "ClassLibrary.Repositorries/Interfaces/IOrderDetailRepositorries.cs",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-OrderDetailRepositorries",
+      "appliesTo": "ClassLibrary.Repositorries/Repositorries/OrderDetailRepositorries.cs",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-Services",
+      "appliesTo": "ClassLibrary.Services/Services/",
+      "type": "launch"
+    }
+  ]
+}
