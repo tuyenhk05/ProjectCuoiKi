@@ -16,4 +16,5 @@ public partial class CartDetail
     public virtual ShoppingCart? Cart { get; set; }
 
     public virtual KoiFish? Fish { get; set; }
+    public int AccId { get; internal set; }
 }

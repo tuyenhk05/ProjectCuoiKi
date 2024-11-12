@@ -29,6 +29,8 @@ internal class Program
             options.Cookie.Name = "MyCookieAuth";
             options.LoginPath = "/Account/Login"; // Trang đăng nhập
         });
+        builder.Services.AddScoped<ICartDetailRepositorries, CartDetailRepositorries>();
+        builder.Services.AddScoped<ICartDetail, CartDetailServices>();
 
         // Tạo ứng dụng từ builder
         var app = builder.Build();
