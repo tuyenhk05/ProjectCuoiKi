@@ -17,67 +17,87 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = RazorPagesMovie.Application
 build_property.RootNamespace = RazorPagesMovie.Application
-build_property.ProjectDir = D:\Cong nghe phan mem\ProjectCuoiKi\ClassLibrary.Application\
+build_property.ProjectDir = D:\Project\ProjectCuoiKi\ClassLibrary.Application\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Cong nghe phan mem\ProjectCuoiKi\ClassLibrary.Application
+build_property.MSBuildProjectDirectory = D:\Project\ProjectCuoiKi\ClassLibrary.Application
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Cong nghe phan mem/ProjectCuoiKi/ClassLibrary.Application/Pages/Accout/Login.cshtml]
+[D:/Project/ProjectCuoiKi/ClassLibrary.Application/Pages/Accout/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3V0XExvZ2luLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Cong nghe phan mem/ProjectCuoiKi/ClassLibrary.Application/Pages/Accout/Logout.cshtml]
+[D:/Project/ProjectCuoiKi/ClassLibrary.Application/Pages/Accout/Logout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3V0XExvZ291dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Cong nghe phan mem/ProjectCuoiKi/ClassLibrary.Application/Pages/Error.cshtml]
+[D:/Project/ProjectCuoiKi/ClassLibrary.Application/Pages/CartD/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FydERcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/ProjectCuoiKi/ClassLibrary.Application/Pages/CartD/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FydERcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/ProjectCuoiKi/ClassLibrary.Application/Pages/CartD/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FydERcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/ProjectCuoiKi/ClassLibrary.Application/Pages/CartD/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FydERcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/ProjectCuoiKi/ClassLibrary.Application/Pages/CartD/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FydERcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/ProjectCuoiKi/ClassLibrary.Application/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Cong nghe phan mem/ProjectCuoiKi/ClassLibrary.Application/Pages/Index.cshtml]
+[D:/Project/ProjectCuoiKi/ClassLibrary.Application/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Cong nghe phan mem/ProjectCuoiKi/ClassLibrary.Application/Pages/KoiFish/Create.cshtml]
+[D:/Project/ProjectCuoiKi/ClassLibrary.Application/Pages/KoiFish/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcS29pRmlzaFxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Cong nghe phan mem/ProjectCuoiKi/ClassLibrary.Application/Pages/KoiFish/Delete.cshtml]
+[D:/Project/ProjectCuoiKi/ClassLibrary.Application/Pages/KoiFish/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcS29pRmlzaFxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Cong nghe phan mem/ProjectCuoiKi/ClassLibrary.Application/Pages/KoiFish/Details.cshtml]
+[D:/Project/ProjectCuoiKi/ClassLibrary.Application/Pages/KoiFish/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcS29pRmlzaFxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Cong nghe phan mem/ProjectCuoiKi/ClassLibrary.Application/Pages/KoiFish/Edit.cshtml]
+[D:/Project/ProjectCuoiKi/ClassLibrary.Application/Pages/KoiFish/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcS29pRmlzaFxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Cong nghe phan mem/ProjectCuoiKi/ClassLibrary.Application/Pages/KoiFish/Index.cshtml]
+[D:/Project/ProjectCuoiKi/ClassLibrary.Application/Pages/KoiFish/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcS29pRmlzaFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Cong nghe phan mem/ProjectCuoiKi/ClassLibrary.Application/Pages/Privacy.cshtml]
+[D:/Project/ProjectCuoiKi/ClassLibrary.Application/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Cong nghe phan mem/ProjectCuoiKi/ClassLibrary.Application/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[D:/Project/ProjectCuoiKi/ClassLibrary.Application/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Cong nghe phan mem/ProjectCuoiKi/ClassLibrary.Application/Pages/_ViewImports.cshtml]
+[D:/Project/ProjectCuoiKi/ClassLibrary.Application/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Cong nghe phan mem/ProjectCuoiKi/ClassLibrary.Application/Pages/_ViewStart.cshtml]
+[D:/Project/ProjectCuoiKi/ClassLibrary.Application/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Cong nghe phan mem/ProjectCuoiKi/ClassLibrary.Application/Pages/Shared/_Layout.cshtml]
+[D:/Project/ProjectCuoiKi/ClassLibrary.Application/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-lgt9qq1bu7

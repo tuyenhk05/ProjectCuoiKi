@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\BTL\\404\\ClassLibrary.Repositorries\\ClassLibrary.Repositorries.csproj": {}
+    "D:\\Project\\ProjectCuoiKi\\ClassLibrary.Repositorries\\ClassLibrary.Repositorries.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\BTL\\404\\ClassLibrary.Repositorries\\ClassLibrary.Repositorries.csproj": {
+    "D:\\Project\\ProjectCuoiKi\\ClassLibrary.Repositorries\\ClassLibrary.Repositorries.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\BTL\\404\\ClassLibrary.Repositorries\\ClassLibrary.Repositorries.csproj",
+        "projectUniqueName": "D:\\Project\\ProjectCuoiKi\\ClassLibrary.Repositorries\\ClassLibrary.Repositorries.csproj",
         "projectName": "ClassLibrary.Repositorries",
-        "projectPath": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\BTL\\404\\ClassLibrary.Repositorries\\ClassLibrary.Repositorries.csproj",
-        "packagesPath": "C:\\Users\\HUYNH KIM TUYEN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\BTL\\404\\ClassLibrary.Repositorries\\obj\\",
+        "projectPath": "D:\\Project\\ProjectCuoiKi\\ClassLibrary.Repositorries\\ClassLibrary.Repositorries.csproj",
+        "packagesPath": "C:\\Users\\lehoa\\.nuget\\packages\\",
+        "outputPath": "D:\\Project\\ProjectCuoiKi\\ClassLibrary.Repositorries\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\HUYNH KIM TUYEN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\lehoa\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

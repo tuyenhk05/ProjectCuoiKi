@@ -524,3 +524,15 @@ C:\Users\HUYNH KIM TUYEN\source\repos\BTL\404\ClassLibrary.Application\obj\Debug
 C:\Users\HUYNH KIM TUYEN\source\repos\BTL\404\ClassLibrary.Application\obj\Debug\net8.0\RazorPag.75A9476D.Up2Date
 C:\Users\HUYNH KIM TUYEN\source\repos\BTL\404\ClassLibrary.Application\obj\Debug\net8.0\RazorPagesMovie.Application.genruntimeconfig.cache
 C:\Users\HUYNH KIM TUYEN\source\repos\BTL\404\ClassLibrary.Application\obj\Debug\net8.0\ref\RazorPagesMovie.Application.dll
+D:\Project\ProjectCuoiKi\ClassLibrary.Application\obj\Debug\net8.0\RazorPagesMovie.Application.csproj.AssemblyReference.cache
+D:\Project\ProjectCuoiKi\ClassLibrary.Application\obj\Debug\net8.0\RazorPagesMovie.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\ProjectCuoiKi\ClassLibrary.Application\obj\Debug\net8.0\RazorPagesMovie.Application.AssemblyInfoInputs.cache
+D:\Project\ProjectCuoiKi\ClassLibrary.Application\obj\Debug\net8.0\RazorPagesMovie.Application.AssemblyInfo.cs
+D:\Project\ProjectCuoiKi\ClassLibrary.Application\obj\Debug\net8.0\RazorPagesMovie.Application.csproj.CoreCompileInputs.cache
+D:\Project\ProjectCuoiKi\ClassLibrary.Application\obj\Debug\net8.0\RazorPagesMovie.Application.MvcApplicationPartsAssemblyInfo.cache
+D:\Project\ProjectCuoiKi\ClassLibrary.Application\obj\Debug\net8.0\RazorPagesMovie.Application.RazorAssemblyInfo.cache
+D:\Project\ProjectCuoiKi\ClassLibrary.Application\obj\Debug\net8.0\RazorPagesMovie.Application.RazorAssemblyInfo.cs
+D:\Project\ProjectCuoiKi\ClassLibrary.Application\obj\Debug\net8.0\RazorPagesMovie.Application.sourcelink.json
+D:\Project\ProjectCuoiKi\ClassLibrary.Application\obj\Debug\net8.0\RazorPagesMovie.Application.dll
+D:\Project\ProjectCuoiKi\ClassLibrary.Application\obj\Debug\net8.0\refint\RazorPagesMovie.Application.dll
+D:\Project\ProjectCuoiKi\ClassLibrary.Application\obj\Debug\net8.0\RazorPagesMovie.Application.pdb

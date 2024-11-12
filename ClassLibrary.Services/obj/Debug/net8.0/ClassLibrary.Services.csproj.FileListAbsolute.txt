@@ -29,3 +29,12 @@ C:\Users\HUYNH KIM TUYEN\source\repos\BTL\404\ClassLibrary.Services\obj\Debug\ne
 C:\Users\HUYNH KIM TUYEN\source\repos\BTL\404\ClassLibrary.Services\obj\Debug\net8.0\refint\ClassLibrary.Services.dll
 C:\Users\HUYNH KIM TUYEN\source\repos\BTL\404\ClassLibrary.Services\obj\Debug\net8.0\ClassLibrary.Services.pdb
 C:\Users\HUYNH KIM TUYEN\source\repos\BTL\404\ClassLibrary.Services\obj\Debug\net8.0\ref\ClassLibrary.Services.dll
+D:\Project\ProjectCuoiKi\ClassLibrary.Services\obj\Debug\net8.0\ClassLibrary.Services.csproj.AssemblyReference.cache
+D:\Project\ProjectCuoiKi\ClassLibrary.Services\obj\Debug\net8.0\ClassLibrary.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\ProjectCuoiKi\ClassLibrary.Services\obj\Debug\net8.0\ClassLibrary.Services.AssemblyInfoInputs.cache
+D:\Project\ProjectCuoiKi\ClassLibrary.Services\obj\Debug\net8.0\ClassLibrary.Services.AssemblyInfo.cs
+D:\Project\ProjectCuoiKi\ClassLibrary.Services\obj\Debug\net8.0\ClassLibrary.Services.csproj.CoreCompileInputs.cache
+D:\Project\ProjectCuoiKi\ClassLibrary.Services\obj\Debug\net8.0\ClassLibrary.Services.sourcelink.json
+D:\Project\ProjectCuoiKi\ClassLibrary.Services\obj\Debug\net8.0\ClassLibrary.Services.dll
+D:\Project\ProjectCuoiKi\ClassLibrary.Services\obj\Debug\net8.0\refint\ClassLibrary.Services.dll
+D:\Project\ProjectCuoiKi\ClassLibrary.Services\obj\Debug\net8.0\ClassLibrary.Services.pdb
