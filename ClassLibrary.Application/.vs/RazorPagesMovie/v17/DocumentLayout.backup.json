@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\BTL\\404\\ClassLibrary.Application\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{40F21432-5532-495B-B749-C65ED3476D02}|RazorPagesMovie.Application.csproj|c:\\users\\huynh kim tuyen\\source\\repos\\btl\\404\\classlibrary.application\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40F21432-5532-495B-B749-C65ED3476D02}|RazorPagesMovie.Application.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40F21432-5532-495B-B749-C65ED3476D02}|RazorPagesMovie.Application.csproj|c:\\users\\huynh kim tuyen\\source\\repos\\btl\\404\\classlibrary.application\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40F21432-5532-495B-B749-C65ED3476D02}|RazorPagesMovie.Application.csproj|solutionrelative:pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40F21432-5532-495B-B749-C65ED3476D02}|RazorPagesMovie.Application.csproj|c:\\users\\huynh kim tuyen\\source\\repos\\btl\\404\\classlibrary.application\\pages\\koifish\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40F21432-5532-495B-B749-C65ED3476D02}|RazorPagesMovie.Application.csproj|solutionrelative:pages\\koifish\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{40F21432-5532-495B-B749-C65ED3476D02}|RazorPagesMovie.Application.csproj|c:\\users\\huynh kim tuyen\\source\\repos\\btl\\404\\classlibrary.application\\pages\\accout\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{40F21432-5532-495B-B749-C65ED3476D02}|RazorPagesMovie.Application.csproj|solutionrelative:pages\\accout\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -42,7 +54,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\BTL\\404\\ClassLibrary.Application\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -50,25 +62,24 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAYwCoAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T14:55:39.396Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-11T14:55:39.396Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Logout.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\BTL\\404\\ClassLibrary.Application\\Pages\\Accout\\Logout.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Accout\\Logout.cshtml.cs",
               "ToolTip": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\BTL\\404\\ClassLibrary.Application\\Pages\\Accout\\Logout.cshtml.cs",
               "RelativeToolTip": "Pages\\Accout\\Logout.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-11T14:36:37.239Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Logout.cshtml",
               "DocumentMoniker": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\BTL\\404\\ClassLibrary.Application\\Pages\\Accout\\Logout.cshtml",
               "RelativeDocumentMoniker": "Pages\\Accout\\Logout.cshtml",
@@ -80,7 +91,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\BTL\\404\\ClassLibrary.Application\\Pages\\Accout\\Login.cshtml",
               "RelativeDocumentMoniker": "Pages\\Accout\\Login.cshtml",
@@ -94,19 +105,79 @@
         },
         {
           "DockedWidth": 277,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\BTL\\404\\ClassLibrary.Application\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\BTL\\404\\ClassLibrary.Application\\Pages\\Index.cshtml*",
+              "RelativeToolTip": "Pages\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T17:47:50.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\BTL\\404\\ClassLibrary.Application\\Pages\\KoiFish\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\KoiFish\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\BTL\\404\\ClassLibrary.Application\\Pages\\KoiFish\\Index.cshtml",
+              "RelativeToolTip": "Pages\\KoiFish\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T17:47:37.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Login.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\BTL\\404\\ClassLibrary.Application\\Pages\\Accout\\Login.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Accout\\Login.cshtml.cs",
-              "ToolTip": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\BTL\\404\\ClassLibrary.Application\\Pages\\Accout\\Login.cshtml.cs*",
-              "RelativeToolTip": "Pages\\Accout\\Login.cshtml.cs*",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwC0AAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\BTL\\404\\ClassLibrary.Application\\Pages\\Accout\\Login.cshtml.cs",
+              "RelativeToolTip": "Pages\\Accout\\Login.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-11T13:09:01.472Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "ab003d7d-d048-46d7-87cb-76bcfe5a1e88",
+        "Display": 0,
+        "X": 26,
+        "Y": 30,
+        "Width": 772,
+        "Height": 740,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\BTL\\404\\ClassLibrary.Application\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\BTL\\404\\ClassLibrary.Application\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T17:48:03.502Z",
               "EditorCaption": ""
             }
           ]
