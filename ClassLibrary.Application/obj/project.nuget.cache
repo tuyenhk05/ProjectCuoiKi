@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NW5So7GWdnQ=",
+  "dgSpecHash": "FL4YVJAFhAs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\BTL\\404\\ClassLibrary.Application\\RazorPagesMovie.Application.csproj",
+  "projectFilePath": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\ProjectCuoiKi\\ClassLibrary.Application\\RazorPagesMovie.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HUYNH KIM TUYEN\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\HUYNH KIM TUYEN\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

@@ -1,41 +1,41 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\BTL\\404\\ClassLibrary.Application\\",
+  "WorkspaceRootPath": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\ProjectCuoiKi\\ClassLibrary.Application\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{40F21432-5532-495B-B749-C65ED3476D02}|RazorPagesMovie.Application.csproj|c:\\users\\huynh kim tuyen\\source\\repos\\btl\\404\\classlibrary.application\\pages\\shop-detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{40F21432-5532-495B-B749-C65ED3476D02}|RazorPagesMovie.Application.csproj|solutionrelative:pages\\shop-detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40F21432-5532-495B-B749-C65ED3476D02}|RazorPagesMovie.Application.csproj|c:\\users\\huynh kim tuyen\\source\\repos\\btl\\404\\classlibrary.application\\pages\\shop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{40F21432-5532-495B-B749-C65ED3476D02}|RazorPagesMovie.Application.csproj|solutionrelative:pages\\shop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40F21432-5532-495B-B749-C65ED3476D02}|RazorPagesMovie.Application.csproj|c:\\users\\huynh kim tuyen\\source\\repos\\btl\\404\\classlibrary.application\\pages\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{40F21432-5532-495B-B749-C65ED3476D02}|RazorPagesMovie.Application.csproj|solutionrelative:pages\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40F21432-5532-495B-B749-C65ED3476D02}|RazorPagesMovie.Application.csproj|c:\\users\\huynh kim tuyen\\source\\repos\\btl\\404\\classlibrary.application\\pages\\chackout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{40F21432-5532-495B-B749-C65ED3476D02}|RazorPagesMovie.Application.csproj|solutionrelative:pages\\chackout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40F21432-5532-495B-B749-C65ED3476D02}|RazorPagesMovie.Application.csproj|c:\\users\\huynh kim tuyen\\source\\repos\\btl\\404\\classlibrary.application\\pages\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{40F21432-5532-495B-B749-C65ED3476D02}|RazorPagesMovie.Application.csproj|solutionrelative:pages\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40F21432-5532-495B-B749-C65ED3476D02}|RazorPagesMovie.Application.csproj|c:\\users\\huynh kim tuyen\\source\\repos\\btl\\404\\classlibrary.application\\pages\\404.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{40F21432-5532-495B-B749-C65ED3476D02}|RazorPagesMovie.Application.csproj|solutionrelative:pages\\404.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40F21432-5532-495B-B749-C65ED3476D02}|RazorPagesMovie.Application.csproj|c:\\users\\huynh kim tuyen\\source\\repos\\btl\\404\\classlibrary.application\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{40F21432-5532-495B-B749-C65ED3476D02}|RazorPagesMovie.Application.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40F21432-5532-495B-B749-C65ED3476D02}|RazorPagesMovie.Application.csproj|c:\\users\\huynh kim tuyen\\source\\repos\\btl\\404\\classlibrary.application\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{40F21432-5532-495B-B749-C65ED3476D02}|RazorPagesMovie.Application.csproj|c:\\users\\huynh kim tuyen\\source\\repos\\projectcuoiki\\classlibrary.application\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{40F21432-5532-495B-B749-C65ED3476D02}|RazorPagesMovie.Application.csproj|solutionrelative:wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40F21432-5532-495B-B749-C65ED3476D02}|RazorPagesMovie.Application.csproj|c:\\users\\huynh kim tuyen\\source\\repos\\btl\\404\\classlibrary.application\\pages\\testimonial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{40F21432-5532-495B-B749-C65ED3476D02}|RazorPagesMovie.Application.csproj|c:\\users\\huynh kim tuyen\\source\\repos\\projectcuoiki\\classlibrary.application\\pages\\shop-detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40F21432-5532-495B-B749-C65ED3476D02}|RazorPagesMovie.Application.csproj|solutionrelative:pages\\shop-detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40F21432-5532-495B-B749-C65ED3476D02}|RazorPagesMovie.Application.csproj|c:\\users\\huynh kim tuyen\\source\\repos\\projectcuoiki\\classlibrary.application\\pages\\shop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40F21432-5532-495B-B749-C65ED3476D02}|RazorPagesMovie.Application.csproj|solutionrelative:pages\\shop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40F21432-5532-495B-B749-C65ED3476D02}|RazorPagesMovie.Application.csproj|c:\\users\\huynh kim tuyen\\source\\repos\\projectcuoiki\\classlibrary.application\\pages\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40F21432-5532-495B-B749-C65ED3476D02}|RazorPagesMovie.Application.csproj|solutionrelative:pages\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40F21432-5532-495B-B749-C65ED3476D02}|RazorPagesMovie.Application.csproj|c:\\users\\huynh kim tuyen\\source\\repos\\projectcuoiki\\classlibrary.application\\pages\\chackout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40F21432-5532-495B-B749-C65ED3476D02}|RazorPagesMovie.Application.csproj|solutionrelative:pages\\chackout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40F21432-5532-495B-B749-C65ED3476D02}|RazorPagesMovie.Application.csproj|c:\\users\\huynh kim tuyen\\source\\repos\\projectcuoiki\\classlibrary.application\\pages\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40F21432-5532-495B-B749-C65ED3476D02}|RazorPagesMovie.Application.csproj|solutionrelative:pages\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40F21432-5532-495B-B749-C65ED3476D02}|RazorPagesMovie.Application.csproj|c:\\users\\huynh kim tuyen\\source\\repos\\projectcuoiki\\classlibrary.application\\pages\\404.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40F21432-5532-495B-B749-C65ED3476D02}|RazorPagesMovie.Application.csproj|solutionrelative:pages\\404.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40F21432-5532-495B-B749-C65ED3476D02}|RazorPagesMovie.Application.csproj|c:\\users\\huynh kim tuyen\\source\\repos\\projectcuoiki\\classlibrary.application\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40F21432-5532-495B-B749-C65ED3476D02}|RazorPagesMovie.Application.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40F21432-5532-495B-B749-C65ED3476D02}|RazorPagesMovie.Application.csproj|c:\\users\\huynh kim tuyen\\source\\repos\\projectcuoiki\\classlibrary.application\\pages\\testimonial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{40F21432-5532-495B-B749-C65ED3476D02}|RazorPagesMovie.Application.csproj|solutionrelative:pages\\testimonial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -46,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,23 +58,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "style.css",
-              "DocumentMoniker": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\BTL\\404\\ClassLibrary.Application\\wwwroot\\css\\style.css",
+              "DocumentMoniker": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\ProjectCuoiKi\\ClassLibrary.Application\\wwwroot\\css\\style.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\style.css",
-              "ToolTip": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\BTL\\404\\ClassLibrary.Application\\wwwroot\\css\\style.css",
+              "ToolTip": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\ProjectCuoiKi\\ClassLibrary.Application\\wwwroot\\css\\style.css",
               "RelativeToolTip": "wwwroot\\css\\style.css",
               "ViewState": "AgIAADYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-11-12T16:22:11.213Z"
+              "WhenOpened": "2024-11-12T16:22:11.213Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "shop-detail.cshtml",
-              "DocumentMoniker": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\BTL\\404\\ClassLibrary.Application\\Pages\\shop-detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\ProjectCuoiKi\\ClassLibrary.Application\\Pages\\shop-detail.cshtml",
               "RelativeDocumentMoniker": "Pages\\shop-detail.cshtml",
-              "ToolTip": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\BTL\\404\\ClassLibrary.Application\\Pages\\shop-detail.cshtml",
+              "ToolTip": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\ProjectCuoiKi\\ClassLibrary.Application\\Pages\\shop-detail.cshtml",
               "RelativeToolTip": "Pages\\shop-detail.cshtml",
               "ViewState": "AgIAAEgAAAAAAAAAAAAAAFgAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -83,11 +84,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "contact.cshtml",
-              "DocumentMoniker": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\BTL\\404\\ClassLibrary.Application\\Pages\\contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\ProjectCuoiKi\\ClassLibrary.Application\\Pages\\contact.cshtml",
               "RelativeDocumentMoniker": "Pages\\contact.cshtml",
-              "ToolTip": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\BTL\\404\\ClassLibrary.Application\\Pages\\contact.cshtml",
+              "ToolTip": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\ProjectCuoiKi\\ClassLibrary.Application\\Pages\\contact.cshtml",
               "RelativeToolTip": "Pages\\contact.cshtml",
               "ViewState": "AgIAAEgAAAAAAAAAAAAAAFgAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -95,11 +96,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "chackout.cshtml",
-              "DocumentMoniker": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\BTL\\404\\ClassLibrary.Application\\Pages\\chackout.cshtml",
+              "DocumentMoniker": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\ProjectCuoiKi\\ClassLibrary.Application\\Pages\\chackout.cshtml",
               "RelativeDocumentMoniker": "Pages\\chackout.cshtml",
-              "ToolTip": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\BTL\\404\\ClassLibrary.Application\\Pages\\chackout.cshtml",
+              "ToolTip": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\ProjectCuoiKi\\ClassLibrary.Application\\Pages\\chackout.cshtml",
               "RelativeToolTip": "Pages\\chackout.cshtml",
               "ViewState": "AgIAAEsAAAAAAAAAAAAAAFgAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -107,11 +108,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\BTL\\404\\ClassLibrary.Application\\Pages\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\ProjectCuoiKi\\ClassLibrary.Application\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "Pages\\Index.cshtml",
-              "ToolTip": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\BTL\\404\\ClassLibrary.Application\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\ProjectCuoiKi\\ClassLibrary.Application\\Pages\\Index.cshtml",
               "RelativeToolTip": "Pages\\Index.cshtml",
               "ViewState": "AgIAAEgAAAAAAAAAAAAAAFwAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -121,9 +122,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "testimonial.cshtml",
-              "DocumentMoniker": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\BTL\\404\\ClassLibrary.Application\\Pages\\testimonial.cshtml",
+              "DocumentMoniker": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\ProjectCuoiKi\\ClassLibrary.Application\\Pages\\testimonial.cshtml",
               "RelativeDocumentMoniker": "Pages\\testimonial.cshtml",
-              "ToolTip": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\BTL\\404\\ClassLibrary.Application\\Pages\\testimonial.cshtml",
+              "ToolTip": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\ProjectCuoiKi\\ClassLibrary.Application\\Pages\\testimonial.cshtml",
               "RelativeToolTip": "Pages\\testimonial.cshtml",
               "ViewState": "AgIAAEMAAAAAAAAAAAAkwFwAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -131,11 +132,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "cart.cshtml",
-              "DocumentMoniker": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\BTL\\404\\ClassLibrary.Application\\Pages\\cart.cshtml",
+              "DocumentMoniker": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\ProjectCuoiKi\\ClassLibrary.Application\\Pages\\cart.cshtml",
               "RelativeDocumentMoniker": "Pages\\cart.cshtml",
-              "ToolTip": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\BTL\\404\\ClassLibrary.Application\\Pages\\cart.cshtml",
+              "ToolTip": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\ProjectCuoiKi\\ClassLibrary.Application\\Pages\\cart.cshtml",
               "RelativeToolTip": "Pages\\cart.cshtml",
               "ViewState": "AgIAAEIAAAAAAAAAAAAAAFgAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -143,11 +144,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "404.cshtml",
-              "DocumentMoniker": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\BTL\\404\\ClassLibrary.Application\\Pages\\404.cshtml",
+              "DocumentMoniker": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\ProjectCuoiKi\\ClassLibrary.Application\\Pages\\404.cshtml",
               "RelativeDocumentMoniker": "Pages\\404.cshtml",
-              "ToolTip": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\BTL\\404\\ClassLibrary.Application\\Pages\\404.cshtml",
+              "ToolTip": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\ProjectCuoiKi\\ClassLibrary.Application\\Pages\\404.cshtml",
               "RelativeToolTip": "Pages\\404.cshtml",
               "ViewState": "AgIAAEQAAAAAAAAAAAAAAFgAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -155,11 +156,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Shop.cshtml",
-              "DocumentMoniker": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\BTL\\404\\ClassLibrary.Application\\Pages\\Shop.cshtml",
+              "DocumentMoniker": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\ProjectCuoiKi\\ClassLibrary.Application\\Pages\\Shop.cshtml",
               "RelativeDocumentMoniker": "Pages\\Shop.cshtml",
-              "ToolTip": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\BTL\\404\\ClassLibrary.Application\\Pages\\Shop.cshtml",
+              "ToolTip": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\ProjectCuoiKi\\ClassLibrary.Application\\Pages\\Shop.cshtml",
               "RelativeToolTip": "Pages\\Shop.cshtml",
               "ViewState": "AgIAAEgAAAAAAAAAAAAAAFgAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
