@@ -23,28 +23,37 @@ namespace RazorPagesMovie.Application.Pages.Accout
 
         public async Task<IActionResult> OnPostAsync()
         {
-           
-            if (!ModelState.IsValid) return Page();
-
-            if (Credential.UserName == "admin" && Credential.Password == "password")
+            try
             {
-                // Đăng nhập thành công
-                var claims = new List<Claim> {
+                Console.WriteLine($"UserName: {Credential.UserName}, Password: {Credential.Password}");
+                if (!ModelState.IsValid) return Page();
+
+                if (Credential.UserName == "admin" && Credential.Password == "password")
+                {
+                    // Đăng nhập thành công
+                    var claims = new List<Claim> {
             new Claim(ClaimTypes.Name, "admin"),
             new Claim(ClaimTypes.Email, "admin@mywebsite.com")
         };
-                var identity = new ClaimsIdentity(claims, "MyCookieAuth");
-                ClaimsPrincipal claimsPrincipal = new ClaimsPrincipal(identity);
-                await HttpContext.SignInAsync("MyCookieAuth", claimsPrincipal);
-                return RedirectToPage("/Pages/Index");
+                    var identity = new ClaimsIdentity(claims, "MyCookieAuth");
+                    ClaimsPrincipal claimsPrincipal = new ClaimsPrincipal(identity);
+                    await HttpContext.SignInAsync("MyCookieAuth", claimsPrincipal);
+                    return RedirectToPage("/Index");
+                }
+
+                ModelState.AddModelError(string.Empty, "Tên đăng nhập hoặc mật khẩu không đúng.");
+                return Page();
+            }catch (Exception ex)
+            {
+                // Ghi lại lỗi ra console hoặc log
+                Console.WriteLine(ex.Message);
+                throw;
             }
 
-            ModelState.AddModelError(string.Empty, "Tên đăng nhập hoặc mật khẩu không đúng.");
-            return Page();
         }
 
 
-    }
+        }
 
     public class Credential
     {

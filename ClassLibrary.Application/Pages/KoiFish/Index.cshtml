@@ -5,7 +5,35 @@
     ViewData["Title"] = "Index";
 }
 
-<h1>Index</h1>
+<a href="/Index" class="btn-back-home">
+    <i class="fa fa-home"></i>
+</a>
+<style>
+    .btn-back-home {
+        display: inline-flex;
+        align-items: center;
+        padding: 10px 20px;
+        background-color: #4CAF50; /* Màu nền cho nút */
+        color: white; /* Màu chữ */
+        text-decoration: none; /* Bỏ gạch chân */
+        border-radius: 5px; /* Bo góc nút */
+        font-size: 16px;
+        font-weight: bold;
+        transition: background-color 0.3s ease; /* Hiệu ứng chuyển màu */
+        margin:20px;
+    }
+
+        .btn-back-home:hover {
+            background-color: #45a049; /* Màu nền khi hover */
+        }
+
+        .btn-back-home i {
+            margin-right: 8px; /* Khoảng cách giữa icon và text */
+            font-size: 18px;
+        }
+
+</style>
+<h1>Giỏ Hàng</h1>
 
 <p>
     <a asp-page="Create">Create New</a>
