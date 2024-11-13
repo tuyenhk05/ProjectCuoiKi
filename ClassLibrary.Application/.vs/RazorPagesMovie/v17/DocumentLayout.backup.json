@@ -3,6 +3,33 @@
   "WorkspaceRootPath": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\ProjectCuoiKi\\ClassLibrary.Application\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{40F21432-5532-495B-B749-C65ED3476D02}|RazorPagesMovie.Application.csproj|c:\\users\\huynh kim tuyen\\source\\repos\\projectcuoiki\\classlibrary.application\\pages\\404.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40F21432-5532-495B-B749-C65ED3476D02}|RazorPagesMovie.Application.csproj|solutionrelative:pages\\404.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40F21432-5532-495B-B749-C65ED3476D02}|RazorPagesMovie.Application.csproj|c:\\users\\huynh kim tuyen\\source\\repos\\projectcuoiki\\classlibrary.application\\pages\\shop-detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40F21432-5532-495B-B749-C65ED3476D02}|RazorPagesMovie.Application.csproj|solutionrelative:pages\\shop-detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HUYNH KIM TUYEN\\AppData\\Local\\Temp\\8390708a-9760-427b-9d30-64029d37b028_fruitables-1.0.0 (1).zip.028\\fruitables-1.0.0\\shop-detail.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40F21432-5532-495B-B749-C65ED3476D02}|RazorPagesMovie.Application.csproj|c:\\users\\huynh kim tuyen\\source\\repos\\projectcuoiki\\classlibrary.application\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{40F21432-5532-495B-B749-C65ED3476D02}|RazorPagesMovie.Application.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40F21432-5532-495B-B749-C65ED3476D02}|RazorPagesMovie.Application.csproj|c:\\users\\huynh kim tuyen\\source\\repos\\projectcuoiki\\classlibrary.application\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{40F21432-5532-495B-B749-C65ED3476D02}|RazorPagesMovie.Application.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40F21432-5532-495B-B749-C65ED3476D02}|RazorPagesMovie.Application.csproj|c:\\users\\huynh kim tuyen\\source\\repos\\projectcuoiki\\classlibrary.application\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40F21432-5532-495B-B749-C65ED3476D02}|RazorPagesMovie.Application.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40F21432-5532-495B-B749-C65ED3476D02}|RazorPagesMovie.Application.csproj|c:\\users\\huynh kim tuyen\\source\\repos\\projectcuoiki\\classlibrary.application\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40F21432-5532-495B-B749-C65ED3476D02}|RazorPagesMovie.Application.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{40F21432-5532-495B-B749-C65ED3476D02}|RazorPagesMovie.Application.csproj|c:\\users\\huynh kim tuyen\\source\\repos\\projectcuoiki\\classlibrary.application\\pages\\shop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{40F21432-5532-495B-B749-C65ED3476D02}|RazorPagesMovie.Application.csproj|solutionrelative:pages\\shop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -11,16 +38,8 @@
       "RelativeMoniker": "D:0:0:{40F21432-5532-495B-B749-C65ED3476D02}|RazorPagesMovie.Application.csproj|solutionrelative:pages\\koifish\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40F21432-5532-495B-B749-C65ED3476D02}|RazorPagesMovie.Application.csproj|c:\\users\\huynh kim tuyen\\source\\repos\\projectcuoiki\\classlibrary.application\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{40F21432-5532-495B-B749-C65ED3476D02}|RazorPagesMovie.Application.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{40F21432-5532-495B-B749-C65ED3476D02}|RazorPagesMovie.Application.csproj|c:\\users\\huynh kim tuyen\\source\\repos\\projectcuoiki\\classlibrary.application\\pages\\testimonial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{40F21432-5532-495B-B749-C65ED3476D02}|RazorPagesMovie.Application.csproj|solutionrelative:pages\\testimonial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40F21432-5532-495B-B749-C65ED3476D02}|RazorPagesMovie.Application.csproj|c:\\users\\huynh kim tuyen\\source\\repos\\projectcuoiki\\classlibrary.application\\pages\\shop-detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{40F21432-5532-495B-B749-C65ED3476D02}|RazorPagesMovie.Application.csproj|solutionrelative:pages\\shop-detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{40F21432-5532-495B-B749-C65ED3476D02}|RazorPagesMovie.Application.csproj|c:\\users\\huynh kim tuyen\\source\\repos\\projectcuoiki\\classlibrary.application\\pages\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -33,14 +52,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{40F21432-5532-495B-B749-C65ED3476D02}|RazorPagesMovie.Application.csproj|c:\\users\\huynh kim tuyen\\source\\repos\\projectcuoiki\\classlibrary.application\\pages\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{40F21432-5532-495B-B749-C65ED3476D02}|RazorPagesMovie.Application.csproj|solutionrelative:pages\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40F21432-5532-495B-B749-C65ED3476D02}|RazorPagesMovie.Application.csproj|c:\\users\\huynh kim tuyen\\source\\repos\\projectcuoiki\\classlibrary.application\\pages\\404.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{40F21432-5532-495B-B749-C65ED3476D02}|RazorPagesMovie.Application.csproj|solutionrelative:pages\\404.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40F21432-5532-495B-B749-C65ED3476D02}|RazorPagesMovie.Application.csproj|c:\\users\\huynh kim tuyen\\source\\repos\\projectcuoiki\\classlibrary.application\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{40F21432-5532-495B-B749-C65ED3476D02}|RazorPagesMovie.Application.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,7 +61,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,7 +73,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\ProjectCuoiKi\\ClassLibrary.Application\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\ProjectCuoiKi\\ClassLibrary.Application\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-13T07:12:15.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\ProjectCuoiKi\\ClassLibrary.Application\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\ProjectCuoiKi\\ClassLibrary.Application\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-13T07:11:31.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\ProjectCuoiKi\\ClassLibrary.Application\\Pages\\KoiFish\\Index.cshtml",
               "RelativeDocumentMoniker": "Pages\\KoiFish\\Index.cshtml",
@@ -74,19 +111,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "shop-detail.cshtml",
               "DocumentMoniker": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\ProjectCuoiKi\\ClassLibrary.Application\\Pages\\shop-detail.cshtml",
               "RelativeDocumentMoniker": "Pages\\shop-detail.cshtml",
               "ToolTip": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\ProjectCuoiKi\\ClassLibrary.Application\\Pages\\shop-detail.cshtml",
               "RelativeToolTip": "Pages\\shop-detail.cshtml",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAAAFIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACQCAAAAAAAAAAAAAGwCAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-12T14:26:12.809Z"
+              "WhenOpened": "2024-11-12T14:26:12.809Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "contact.cshtml",
               "DocumentMoniker": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\ProjectCuoiKi\\ClassLibrary.Application\\Pages\\contact.cshtml",
               "RelativeDocumentMoniker": "Pages\\contact.cshtml",
@@ -98,7 +136,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "chackout.cshtml",
               "DocumentMoniker": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\ProjectCuoiKi\\ClassLibrary.Application\\Pages\\chackout.cshtml",
               "RelativeDocumentMoniker": "Pages\\chackout.cshtml",
@@ -110,44 +148,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "Shop.cshtml",
               "DocumentMoniker": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\ProjectCuoiKi\\ClassLibrary.Application\\Pages\\Shop.cshtml",
               "RelativeDocumentMoniker": "Pages\\Shop.cshtml",
               "ToolTip": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\ProjectCuoiKi\\ClassLibrary.Application\\Pages\\Shop.cshtml",
               "RelativeToolTip": "Pages\\Shop.cshtml",
-              "ViewState": "AgIAAM4BAAAAAAAAAAAqwLEBAABgAAAAAAAAAA==",
+              "ViewState": "AgIAALEBAAAAAAAAAAAuwM0BAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-12T14:12:48.26Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\ProjectCuoiKi\\ClassLibrary.Application\\Pages\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\ProjectCuoiKi\\ClassLibrary.Application\\Pages\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAHoAAAAAAAAAAAAAAJAAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAAAHYAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-13T03:52:25.503Z"
+              "WhenOpened": "2024-11-13T03:52:25.503Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\ProjectCuoiKi\\ClassLibrary.Application\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "Pages\\Index.cshtml",
               "ToolTip": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\ProjectCuoiKi\\ClassLibrary.Application\\Pages\\Index.cshtml",
               "RelativeToolTip": "Pages\\Index.cshtml",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAAAFYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAKQDAAAAAAAAAAAAALUDAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-12T11:56:07.915Z"
+              "WhenOpened": "2024-11-12T11:56:07.915Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "testimonial.cshtml",
               "DocumentMoniker": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\ProjectCuoiKi\\ClassLibrary.Application\\Pages\\testimonial.cshtml",
               "RelativeDocumentMoniker": "Pages\\testimonial.cshtml",
@@ -159,7 +199,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
+              "Title": "404.cshtml",
+              "DocumentMoniker": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\ProjectCuoiKi\\ClassLibrary.Application\\Pages\\404.cshtml",
+              "RelativeDocumentMoniker": "Pages\\404.cshtml",
+              "ToolTip": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\ProjectCuoiKi\\ClassLibrary.Application\\Pages\\404.cshtml*",
+              "RelativeToolTip": "Pages\\404.cshtml*",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAAAIMAAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T14:25:23.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "shop-detail.html",
+              "DocumentMoniker": "C:\\Users\\HUYNH KIM TUYEN\\AppData\\Local\\Temp\\8390708a-9760-427b-9d30-64029d37b028_fruitables-1.0.0 (1).zip.028\\fruitables-1.0.0\\shop-detail.html",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\8390708a-9760-427b-9d30-64029d37b028_fruitables-1.0.0 (1).zip.028\\fruitables-1.0.0\\shop-detail.html",
+              "ToolTip": "C:\\Users\\HUYNH KIM TUYEN\\AppData\\Local\\Temp\\8390708a-9760-427b-9d30-64029d37b028_fruitables-1.0.0 (1).zip.028\\fruitables-1.0.0\\shop-detail.html [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\8390708a-9760-427b-9d30-64029d37b028_fruitables-1.0.0 (1).zip.028\\fruitables-1.0.0\\shop-detail.html [Read Only]",
+              "ViewState": "AgIAAJwCAAAAAAAAAAAiwKkCAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-13T07:14:00.23Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "cart.cshtml",
               "DocumentMoniker": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\ProjectCuoiKi\\ClassLibrary.Application\\Pages\\cart.cshtml",
               "RelativeDocumentMoniker": "Pages\\cart.cshtml",
@@ -168,18 +234,6 @@
               "ViewState": "AgIAAEIAAAAAAAAAAAAAAFIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-12T14:25:32.91Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "404.cshtml",
-              "DocumentMoniker": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\ProjectCuoiKi\\ClassLibrary.Application\\Pages\\404.cshtml",
-              "RelativeDocumentMoniker": "Pages\\404.cshtml",
-              "ToolTip": "C:\\Users\\HUYNH KIM TUYEN\\source\\repos\\ProjectCuoiKi\\ClassLibrary.Application\\Pages\\404.cshtml",
-              "RelativeToolTip": "Pages\\404.cshtml",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAAAFIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-12T14:25:23.874Z"
             }
           ]
         }
