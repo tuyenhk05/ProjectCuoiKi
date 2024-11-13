@@ -17,131 +17,115 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = RazorPagesMovie.Application
 build_property.RootNamespace = RazorPagesMovie.Application
-build_property.ProjectDir = C:\Users\Dell\source\repos\pj\ProjectCuoiKi\ClassLibrary.Application\
+build_property.ProjectDir = D:\Project_Test\ProjectCuoiKi\ClassLibrary.Application\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Dell\source\repos\pj\ProjectCuoiKi\ClassLibrary.Application
+build_property.MSBuildProjectDirectory = D:\Project_Test\ProjectCuoiKi\ClassLibrary.Application
 build_property._RazorSourceGeneratorDebug = 
 
-<<<<<<< HEAD
-[C:/Users/HUYNH KIM TUYEN/source/repos/BTL/404/ClassLibrary.Application/Pages/404.cshtml]
+[D:/Project_Test/ProjectCuoiKi/ClassLibrary.Application/Pages/404.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcNDA0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HUYNH KIM TUYEN/source/repos/BTL/404/ClassLibrary.Application/Pages/Accout/Login.cshtml]
-=======
-[C:/Users/Dell/source/repos/pj/ProjectCuoiKi/ClassLibrary.Application/Pages/Accout/Login.cshtml]
->>>>>>> 8fedc1abb24f102b688bac259b79c2b2e9a05975
+[D:/Project_Test/ProjectCuoiKi/ClassLibrary.Application/Pages/Accout/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3V0XExvZ2luLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dell/source/repos/pj/ProjectCuoiKi/ClassLibrary.Application/Pages/Accout/Logout.cshtml]
+[D:/Project_Test/ProjectCuoiKi/ClassLibrary.Application/Pages/Accout/Logout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3V0XExvZ291dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-<<<<<<< HEAD
-[C:/Users/HUYNH KIM TUYEN/source/repos/BTL/404/ClassLibrary.Application/Pages/cart.cshtml]
+[D:/Project_Test/ProjectCuoiKi/ClassLibrary.Application/Pages/cart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY2FydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HUYNH KIM TUYEN/source/repos/BTL/404/ClassLibrary.Application/Pages/CartD/Create.cshtml]
-=======
-[C:/Users/Dell/source/repos/pj/ProjectCuoiKi/ClassLibrary.Application/Pages/CartD/Create.cshtml]
->>>>>>> 8fedc1abb24f102b688bac259b79c2b2e9a05975
+[D:/Project_Test/ProjectCuoiKi/ClassLibrary.Application/Pages/CartD/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FydERcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dell/source/repos/pj/ProjectCuoiKi/ClassLibrary.Application/Pages/CartD/Delete.cshtml]
+[D:/Project_Test/ProjectCuoiKi/ClassLibrary.Application/Pages/CartD/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FydERcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dell/source/repos/pj/ProjectCuoiKi/ClassLibrary.Application/Pages/CartD/Details.cshtml]
+[D:/Project_Test/ProjectCuoiKi/ClassLibrary.Application/Pages/CartD/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FydERcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dell/source/repos/pj/ProjectCuoiKi/ClassLibrary.Application/Pages/CartD/Edit.cshtml]
+[D:/Project_Test/ProjectCuoiKi/ClassLibrary.Application/Pages/CartD/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FydERcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dell/source/repos/pj/ProjectCuoiKi/ClassLibrary.Application/Pages/CartD/Index.cshtml]
+[D:/Project_Test/ProjectCuoiKi/ClassLibrary.Application/Pages/CartD/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FydERcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-<<<<<<< HEAD
-[C:/Users/HUYNH KIM TUYEN/source/repos/BTL/404/ClassLibrary.Application/Pages/chackout.cshtml]
+[D:/Project_Test/ProjectCuoiKi/ClassLibrary.Application/Pages/chackout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY2hhY2tvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HUYNH KIM TUYEN/source/repos/BTL/404/ClassLibrary.Application/Pages/contact.cshtml]
+[D:/Project_Test/ProjectCuoiKi/ClassLibrary.Application/Pages/contact.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY29udGFjdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HUYNH KIM TUYEN/source/repos/BTL/404/ClassLibrary.Application/Pages/Error.cshtml]
-=======
-[C:/Users/Dell/source/repos/pj/ProjectCuoiKi/ClassLibrary.Application/Pages/Error.cshtml]
->>>>>>> 8fedc1abb24f102b688bac259b79c2b2e9a05975
+[D:/Project_Test/ProjectCuoiKi/ClassLibrary.Application/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dell/source/repos/pj/ProjectCuoiKi/ClassLibrary.Application/Pages/Index.cshtml]
+[D:/Project_Test/ProjectCuoiKi/ClassLibrary.Application/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dell/source/repos/pj/ProjectCuoiKi/ClassLibrary.Application/Pages/KoiFish/Create.cshtml]
+[D:/Project_Test/ProjectCuoiKi/ClassLibrary.Application/Pages/KoiFish/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcS29pRmlzaFxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dell/source/repos/pj/ProjectCuoiKi/ClassLibrary.Application/Pages/KoiFish/Delete.cshtml]
+[D:/Project_Test/ProjectCuoiKi/ClassLibrary.Application/Pages/KoiFish/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcS29pRmlzaFxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dell/source/repos/pj/ProjectCuoiKi/ClassLibrary.Application/Pages/KoiFish/Details.cshtml]
+[D:/Project_Test/ProjectCuoiKi/ClassLibrary.Application/Pages/KoiFish/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcS29pRmlzaFxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dell/source/repos/pj/ProjectCuoiKi/ClassLibrary.Application/Pages/KoiFish/Edit.cshtml]
+[D:/Project_Test/ProjectCuoiKi/ClassLibrary.Application/Pages/KoiFish/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcS29pRmlzaFxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dell/source/repos/pj/ProjectCuoiKi/ClassLibrary.Application/Pages/KoiFish/Index.cshtml]
+[D:/Project_Test/ProjectCuoiKi/ClassLibrary.Application/Pages/KoiFish/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcS29pRmlzaFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dell/source/repos/pj/ProjectCuoiKi/ClassLibrary.Application/Pages/Privacy.cshtml]
+[D:/Project_Test/ProjectCuoiKi/ClassLibrary.Application/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dell/source/repos/pj/ProjectCuoiKi/ClassLibrary.Application/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[D:/Project_Test/ProjectCuoiKi/ClassLibrary.Application/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-<<<<<<< HEAD
-[C:/Users/HUYNH KIM TUYEN/source/repos/BTL/404/ClassLibrary.Application/Pages/shop-detail.cshtml]
+[D:/Project_Test/ProjectCuoiKi/ClassLibrary.Application/Pages/shop-detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcc2hvcC1kZXRhaWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HUYNH KIM TUYEN/source/repos/BTL/404/ClassLibrary.Application/Pages/Shop.cshtml]
+[D:/Project_Test/ProjectCuoiKi/ClassLibrary.Application/Pages/Shop.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hvcC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HUYNH KIM TUYEN/source/repos/BTL/404/ClassLibrary.Application/Pages/testimonial.cshtml]
+[D:/Project_Test/ProjectCuoiKi/ClassLibrary.Application/Pages/testimonial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcdGVzdGltb25pYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HUYNH KIM TUYEN/source/repos/BTL/404/ClassLibrary.Application/Pages/_ViewImports.cshtml]
-=======
-[C:/Users/Dell/source/repos/pj/ProjectCuoiKi/ClassLibrary.Application/Pages/_ViewImports.cshtml]
->>>>>>> 8fedc1abb24f102b688bac259b79c2b2e9a05975
+[D:/Project_Test/ProjectCuoiKi/ClassLibrary.Application/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dell/source/repos/pj/ProjectCuoiKi/ClassLibrary.Application/Pages/_ViewStart.cshtml]
+[D:/Project_Test/ProjectCuoiKi/ClassLibrary.Application/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dell/source/repos/pj/ProjectCuoiKi/ClassLibrary.Application/Pages/Shared/_Layout.cshtml]
+[D:/Project_Test/ProjectCuoiKi/ClassLibrary.Application/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-lgt9qq1bu7

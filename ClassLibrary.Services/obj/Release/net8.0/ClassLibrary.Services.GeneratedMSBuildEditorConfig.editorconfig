@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ClassLibrary.Services
-build_property.ProjectDir = C:\Users\Dell\source\repos\pj\ProjectCuoiKi\ClassLibrary.Services\
+build_property.ProjectDir = D:\Project_Test\ProjectCuoiKi\ClassLibrary.Services\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

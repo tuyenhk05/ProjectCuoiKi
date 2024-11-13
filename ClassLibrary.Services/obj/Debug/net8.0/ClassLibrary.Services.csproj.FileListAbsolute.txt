@@ -54,3 +54,19 @@ C:\Users\HUYNH KIM TUYEN\source\repos\ProjectCuoiKi\ClassLibrary.Services\bin\De
 C:\Users\HUYNH KIM TUYEN\source\repos\ProjectCuoiKi\ClassLibrary.Services\bin\Debug\net8.0\ClassLibrary.Repositorries.pdb
 C:\Users\HUYNH KIM TUYEN\source\repos\ProjectCuoiKi\ClassLibrary.Services\obj\Debug\net8.0\ClassLib.123B0933.Up2Date
 C:\Users\HUYNH KIM TUYEN\source\repos\ProjectCuoiKi\ClassLibrary.Services\obj\Debug\net8.0\ref\ClassLibrary.Services.dll
+D:\Project_Test\ProjectCuoiKi\ClassLibrary.Services\bin\Debug\net8.0\ClassLibrary.Services.deps.json
+D:\Project_Test\ProjectCuoiKi\ClassLibrary.Services\bin\Debug\net8.0\ClassLibrary.Services.dll
+D:\Project_Test\ProjectCuoiKi\ClassLibrary.Services\bin\Debug\net8.0\ClassLibrary.Services.pdb
+D:\Project_Test\ProjectCuoiKi\ClassLibrary.Services\bin\Debug\net8.0\ClassLibrary.Repositorries.dll
+D:\Project_Test\ProjectCuoiKi\ClassLibrary.Services\bin\Debug\net8.0\ClassLibrary.Repositorries.pdb
+D:\Project_Test\ProjectCuoiKi\ClassLibrary.Services\obj\Debug\net8.0\ClassLibrary.Services.csproj.AssemblyReference.cache
+D:\Project_Test\ProjectCuoiKi\ClassLibrary.Services\obj\Debug\net8.0\ClassLibrary.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project_Test\ProjectCuoiKi\ClassLibrary.Services\obj\Debug\net8.0\ClassLibrary.Services.AssemblyInfoInputs.cache
+D:\Project_Test\ProjectCuoiKi\ClassLibrary.Services\obj\Debug\net8.0\ClassLibrary.Services.AssemblyInfo.cs
+D:\Project_Test\ProjectCuoiKi\ClassLibrary.Services\obj\Debug\net8.0\ClassLibrary.Services.csproj.CoreCompileInputs.cache
+D:\Project_Test\ProjectCuoiKi\ClassLibrary.Services\obj\Debug\net8.0\ClassLibrary.Services.sourcelink.json
+D:\Project_Test\ProjectCuoiKi\ClassLibrary.Services\obj\Debug\net8.0\ClassLib.123B0933.Up2Date
+D:\Project_Test\ProjectCuoiKi\ClassLibrary.Services\obj\Debug\net8.0\ClassLibrary.Services.dll
+D:\Project_Test\ProjectCuoiKi\ClassLibrary.Services\obj\Debug\net8.0\refint\ClassLibrary.Services.dll
+D:\Project_Test\ProjectCuoiKi\ClassLibrary.Services\obj\Debug\net8.0\ClassLibrary.Services.pdb
+D:\Project_Test\ProjectCuoiKi\ClassLibrary.Services\obj\Debug\net8.0\ref\ClassLibrary.Services.dll
