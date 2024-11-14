@@ -109,6 +109,10 @@
       "PackagePath": "staticwebassets\\img\\hero-img.jpg"
     },
     {
+      "Id": "D:\\Project_Test\\ProjectCuoiKi\\ClassLibrary.Application\\wwwroot\\img\\layout.png",
+      "PackagePath": "staticwebassets\\img\\layout.png"
+    },
+    {
       "Id": "D:\\Project_Test\\ProjectCuoiKi\\ClassLibrary.Application\\wwwroot\\img\\payment.png",
       "PackagePath": "staticwebassets\\img\\payment.png"
     },

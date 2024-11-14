@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "D:\\Project_Test\\ProjectCuoiKi\\ClassLibrary.Application\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{40F21432-5532-495B-B749-C65ED3476D02}|RazorPagesMovie.Application.csproj|d:\\project_test\\projectcuoiki\\classlibrary.application\\pages\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{40F21432-5532-495B-B749-C65ED3476D02}|RazorPagesMovie.Application.csproj|solutionrelative:pages\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{40F21432-5532-495B-B749-C65ED3476D02}|RazorPagesMovie.Application.csproj|d:\\project_test\\projectcuoiki\\classlibrary.application\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40F21432-5532-495B-B749-C65ED3476D02}|RazorPagesMovie.Application.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{40F21432-5532-495B-B749-C65ED3476D02}|RazorPagesMovie.Application.csproj|d:\\project_test\\projectcuoiki\\classlibrary.application\\pages\\koifish\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{40F21432-5532-495B-B749-C65ED3476D02}|RazorPagesMovie.Application.csproj|solutionrelative:pages\\koifish\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40F21432-5532-495B-B749-C65ED3476D02}|RazorPagesMovie.Application.csproj|d:\\project_test\\projectcuoiki\\classlibrary.application\\pages\\shop-detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40F21432-5532-495B-B749-C65ED3476D02}|RazorPagesMovie.Application.csproj|solutionrelative:pages\\shop-detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40F21432-5532-495B-B749-C65ED3476D02}|RazorPagesMovie.Application.csproj|d:\\project_test\\projectcuoiki\\classlibrary.application\\pages\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40F21432-5532-495B-B749-C65ED3476D02}|RazorPagesMovie.Application.csproj|solutionrelative:pages\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{40F21432-5532-495B-B749-C65ED3476D02}|RazorPagesMovie.Application.csproj|d:\\project_test\\projectcuoiki\\classlibrary.application\\pages\\shop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -23,10 +31,6 @@
       "RelativeMoniker": "D:0:0:{40F21432-5532-495B-B749-C65ED3476D02}|RazorPagesMovie.Application.csproj|solutionrelative:pages\\testimonial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40F21432-5532-495B-B749-C65ED3476D02}|RazorPagesMovie.Application.csproj|d:\\project_test\\projectcuoiki\\classlibrary.application\\pages\\shop-detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{40F21432-5532-495B-B749-C65ED3476D02}|RazorPagesMovie.Application.csproj|solutionrelative:pages\\shop-detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{40F21432-5532-495B-B749-C65ED3476D02}|RazorPagesMovie.Application.csproj|d:\\project_test\\projectcuoiki\\classlibrary.application\\pages\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{40F21432-5532-495B-B749-C65ED3476D02}|RazorPagesMovie.Application.csproj|solutionrelative:pages\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -37,10 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{40F21432-5532-495B-B749-C65ED3476D02}|RazorPagesMovie.Application.csproj|d:\\project_test\\projectcuoiki\\classlibrary.application\\pages\\404.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{40F21432-5532-495B-B749-C65ED3476D02}|RazorPagesMovie.Application.csproj|solutionrelative:pages\\404.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40F21432-5532-495B-B749-C65ED3476D02}|RazorPagesMovie.Application.csproj|d:\\project_test\\projectcuoiki\\classlibrary.application\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{40F21432-5532-495B-B749-C65ED3476D02}|RazorPagesMovie.Application.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,19 +62,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Project_Test\\ProjectCuoiKi\\ClassLibrary.Application\\Pages\\KoiFish\\Index.cshtml",
-              "RelativeDocumentMoniker": "Pages\\KoiFish\\Index.cshtml",
-              "ToolTip": "D:\\Project_Test\\ProjectCuoiKi\\ClassLibrary.Application\\Pages\\KoiFish\\Index.cshtml",
-              "RelativeToolTip": "Pages\\KoiFish\\Index.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-13T04:17:55.125Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "contact.cshtml",
               "DocumentMoniker": "D:\\Project_Test\\ProjectCuoiKi\\ClassLibrary.Application\\Pages\\contact.cshtml",
               "RelativeDocumentMoniker": "Pages\\contact.cshtml",
@@ -86,7 +74,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "chackout.cshtml",
               "DocumentMoniker": "D:\\Project_Test\\ProjectCuoiKi\\ClassLibrary.Application\\Pages\\chackout.cshtml",
               "RelativeDocumentMoniker": "Pages\\chackout.cshtml",
@@ -98,7 +86,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Shop.cshtml",
               "DocumentMoniker": "D:\\Project_Test\\ProjectCuoiKi\\ClassLibrary.Application\\Pages\\Shop.cshtml",
               "RelativeDocumentMoniker": "Pages\\Shop.cshtml",
@@ -110,7 +98,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "cart.cshtml",
               "DocumentMoniker": "D:\\Project_Test\\ProjectCuoiKi\\ClassLibrary.Application\\Pages\\cart.cshtml",
               "RelativeDocumentMoniker": "Pages\\cart.cshtml",
@@ -123,19 +111,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "shop-detail.cshtml",
               "DocumentMoniker": "D:\\Project_Test\\ProjectCuoiKi\\ClassLibrary.Application\\Pages\\shop-detail.cshtml",
               "RelativeDocumentMoniker": "Pages\\shop-detail.cshtml",
               "ToolTip": "D:\\Project_Test\\ProjectCuoiKi\\ClassLibrary.Application\\Pages\\shop-detail.cshtml",
               "RelativeToolTip": "Pages\\shop-detail.cshtml",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAAAFIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFkBAAAAAAAAAAAAAE8AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-12T14:26:12.809Z"
+              "WhenOpened": "2024-11-12T14:26:12.809Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Project_Test\\ProjectCuoiKi\\ClassLibrary.Application\\Pages\\KoiFish\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\KoiFish\\Index.cshtml",
+              "ToolTip": "D:\\Project_Test\\ProjectCuoiKi\\ClassLibrary.Application\\Pages\\KoiFish\\Index.cshtml",
+              "RelativeToolTip": "Pages\\KoiFish\\Index.cshtml",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-13T04:17:55.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\Project_Test\\ProjectCuoiKi\\ClassLibrary.Application\\Pages\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
@@ -147,19 +149,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Project_Test\\ProjectCuoiKi\\ClassLibrary.Application\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "Pages\\Index.cshtml",
               "ToolTip": "D:\\Project_Test\\ProjectCuoiKi\\ClassLibrary.Application\\Pages\\Index.cshtml",
               "RelativeToolTip": "Pages\\Index.cshtml",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAAAFYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAIsDAAAAAAAAAAAAAIgDAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-12T11:56:07.915Z"
+              "WhenOpened": "2024-11-12T11:56:07.915Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "testimonial.cshtml",
               "DocumentMoniker": "D:\\Project_Test\\ProjectCuoiKi\\ClassLibrary.Application\\Pages\\testimonial.cshtml",
               "RelativeDocumentMoniker": "Pages\\testimonial.cshtml",
@@ -171,7 +174,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "404.cshtml",
               "DocumentMoniker": "D:\\Project_Test\\ProjectCuoiKi\\ClassLibrary.Application\\Pages\\404.cshtml",
               "RelativeDocumentMoniker": "Pages\\404.cshtml",

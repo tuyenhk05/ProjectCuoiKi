@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "E1K2vFKOKqlUvBJ2eBcHFwha4i0bAeCgIVnmMX4qmfs=",
+  "Hash": "RuI0SK09C+GZAjrZIbzi1a+2M4Xd+BRmQab6VUJbEaw=",
   "Source": "RazorPagesMovie.Application",
   "BasePath": "_content/RazorPagesMovie.Application",
   "Mode": "Default",
@@ -547,6 +547,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\hero-img-2.jpg"
+    },
+    {
+      "Identity": "D:\\Project_Test\\ProjectCuoiKi\\ClassLibrary.Application\\wwwroot\\img\\layout.png",
+      "SourceId": "RazorPagesMovie.Application",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Project_Test\\ProjectCuoiKi\\ClassLibrary.Application\\wwwroot\\",
+      "BasePath": "_content/RazorPagesMovie.Application",
+      "RelativePath": "img/layout.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\layout.png"
     },
     {
       "Identity": "D:\\Project_Test\\ProjectCuoiKi\\ClassLibrary.Application\\wwwroot\\img\\payment.png",
