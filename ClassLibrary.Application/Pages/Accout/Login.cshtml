@@ -1,7 +1,7 @@
 ﻿@page
 @model RazorPagesMovie.Application.Pages.Accout.LoginModel
 @{
-}
+}<div class="backgroud">
 <a href="/Index" class="btn-back-home">
     <i class="fa fa-home"></i>
 </a>
@@ -18,7 +18,9 @@
         font-weight: bold;
         transition: background-color 0.3s ease; /* Hiệu ứng chuyển màu */
         margin: 20px;
-    }
+        top:5px;
+        left:5px;
+        border-radius:50%;    }
 
         .btn-back-home:hover {
             background-color: #45a049; /* Màu nền khi hover */
@@ -73,10 +75,7 @@
     
     </form>
     <style>
-        .formcheck{
-            width: 613px;
-            height: 400px;
-        }
+       
         .text{
             font-size: 30px;
             text-align: center;
@@ -99,12 +98,38 @@
             }
             form{
             font-family: "Roboto", sans-serif;
+                border: 1px solid transparent;
+                color: white;
             }
 
        #formdesgin{
            margin-top:50px;
        }
+
+            body {
+           background-image:url('/img/layout.png');
+           width:100%;
+           height:100%;
+                background-size: cover;
+                background-repeat: no-repeat;
+                background-position: center;
+           
+       }
+
+            .container, .container-fluid, .container-xxl, .container-xl, .container-lg, .container-md, .container-sm {
+                width: 100%;
+                padding-right: var(--bs-gutter-x, 0.rem);
+                padding-left: var(--bs-gutter-x, 0.rem);
+                margin-right: auto;
+                margin-left: auto;
+            }
+
+            .formcheck {
+                width: 613px;
+                height: 400px;
+            }
+        
     </style>
 
-
+    </div>
 </div>
