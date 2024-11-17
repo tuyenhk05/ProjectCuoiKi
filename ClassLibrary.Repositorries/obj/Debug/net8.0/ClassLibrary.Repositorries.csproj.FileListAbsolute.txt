@@ -52,3 +52,9 @@ D:\Project_Test\ProjectCuoiKi\ClassLibrary.Repositorries\obj\Debug\net8.0\refint
 D:\Project_Test\ProjectCuoiKi\ClassLibrary.Repositorries\obj\Debug\net8.0\ClassLibrary.Repositorries.pdb
 D:\Project_Test\ProjectCuoiKi\ClassLibrary.Repositorries\obj\Debug\net8.0\ClassLibrary.Repositorries.genruntimeconfig.cache
 D:\Project_Test\ProjectCuoiKi\ClassLibrary.Repositorries\obj\Debug\net8.0\ref\ClassLibrary.Repositorries.dll
+D:\Project\ProjectCuoiKi\ClassLibrary.Repositorries\bin\Debug\net8.0\ClassLibrary.Repositorries.deps.json
+D:\Project\ProjectCuoiKi\ClassLibrary.Repositorries\bin\Debug\net8.0\ClassLibrary.Repositorries.runtimeconfig.json
+D:\Project\ProjectCuoiKi\ClassLibrary.Repositorries\bin\Debug\net8.0\ClassLibrary.Repositorries.dll
+D:\Project\ProjectCuoiKi\ClassLibrary.Repositorries\bin\Debug\net8.0\ClassLibrary.Repositorries.pdb
+D:\Project\ProjectCuoiKi\ClassLibrary.Repositorries\obj\Debug\net8.0\ClassLibrary.Repositorries.genruntimeconfig.cache
+D:\Project\ProjectCuoiKi\ClassLibrary.Repositorries\obj\Debug\net8.0\ref\ClassLibrary.Repositorries.dll

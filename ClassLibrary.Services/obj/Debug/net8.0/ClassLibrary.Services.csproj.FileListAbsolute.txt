@@ -70,3 +70,10 @@ D:\Project_Test\ProjectCuoiKi\ClassLibrary.Services\obj\Debug\net8.0\ClassLibrar
 D:\Project_Test\ProjectCuoiKi\ClassLibrary.Services\obj\Debug\net8.0\refint\ClassLibrary.Services.dll
 D:\Project_Test\ProjectCuoiKi\ClassLibrary.Services\obj\Debug\net8.0\ClassLibrary.Services.pdb
 D:\Project_Test\ProjectCuoiKi\ClassLibrary.Services\obj\Debug\net8.0\ref\ClassLibrary.Services.dll
+D:\Project\ProjectCuoiKi\ClassLibrary.Services\bin\Debug\net8.0\ClassLibrary.Services.deps.json
+D:\Project\ProjectCuoiKi\ClassLibrary.Services\bin\Debug\net8.0\ClassLibrary.Services.dll
+D:\Project\ProjectCuoiKi\ClassLibrary.Services\bin\Debug\net8.0\ClassLibrary.Services.pdb
+D:\Project\ProjectCuoiKi\ClassLibrary.Services\bin\Debug\net8.0\ClassLibrary.Repositorries.dll
+D:\Project\ProjectCuoiKi\ClassLibrary.Services\bin\Debug\net8.0\ClassLibrary.Repositorries.pdb
+D:\Project\ProjectCuoiKi\ClassLibrary.Services\obj\Debug\net8.0\ClassLib.123B0933.Up2Date
+D:\Project\ProjectCuoiKi\ClassLibrary.Services\obj\Debug\net8.0\ref\ClassLibrary.Services.dll

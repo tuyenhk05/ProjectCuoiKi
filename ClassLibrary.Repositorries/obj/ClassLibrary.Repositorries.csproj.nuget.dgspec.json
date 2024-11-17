@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Project_Test\\ProjectCuoiKi\\ClassLibrary.Repositorries\\ClassLibrary.Repositorries.csproj": {}
+    "D:\\Project\\ProjectCuoiKi\\ClassLibrary.Repositorries\\ClassLibrary.Repositorries.csproj": {}
   },
   "projects": {
-    "D:\\Project_Test\\ProjectCuoiKi\\ClassLibrary.Repositorries\\ClassLibrary.Repositorries.csproj": {
+    "D:\\Project\\ProjectCuoiKi\\ClassLibrary.Repositorries\\ClassLibrary.Repositorries.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Project_Test\\ProjectCuoiKi\\ClassLibrary.Repositorries\\ClassLibrary.Repositorries.csproj",
+        "projectUniqueName": "D:\\Project\\ProjectCuoiKi\\ClassLibrary.Repositorries\\ClassLibrary.Repositorries.csproj",
         "projectName": "ClassLibrary.Repositorries",
-        "projectPath": "D:\\Project_Test\\ProjectCuoiKi\\ClassLibrary.Repositorries\\ClassLibrary.Repositorries.csproj",
+        "projectPath": "D:\\Project\\ProjectCuoiKi\\ClassLibrary.Repositorries\\ClassLibrary.Repositorries.csproj",
         "packagesPath": "C:\\Users\\lehoa\\.nuget\\packages\\",
-        "outputPath": "D:\\Project_Test\\ProjectCuoiKi\\ClassLibrary.Repositorries\\obj\\",
+        "outputPath": "D:\\Project\\ProjectCuoiKi\\ClassLibrary.Repositorries\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

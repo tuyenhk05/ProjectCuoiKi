@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ClassLibrary.Repositorries")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f68e94b38043d4fca1cd1089f87289e5cacdcfc9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d584b45313220c5bfe27baeb238a80f42426e9df")]
 [assembly: System.Reflection.AssemblyProductAttribute("ClassLibrary.Repositorries")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ClassLibrary.Repositorries")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

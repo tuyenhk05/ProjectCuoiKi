@@ -2773,11 +2773,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Project_Test\\ProjectCuoiKi\\ClassLibrary.Services\\ClassLibrary.Services.csproj",
+      "projectUniqueName": "D:\\Project\\ProjectCuoiKi\\ClassLibrary.Services\\ClassLibrary.Services.csproj",
       "projectName": "ClassLibrary.Services",
-      "projectPath": "D:\\Project_Test\\ProjectCuoiKi\\ClassLibrary.Services\\ClassLibrary.Services.csproj",
+      "projectPath": "D:\\Project\\ProjectCuoiKi\\ClassLibrary.Services\\ClassLibrary.Services.csproj",
       "packagesPath": "C:\\Users\\lehoa\\.nuget\\packages\\",
-      "outputPath": "D:\\Project_Test\\ProjectCuoiKi\\ClassLibrary.Services\\obj\\",
+      "outputPath": "D:\\Project\\ProjectCuoiKi\\ClassLibrary.Services\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2799,8 +2799,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Project_Test\\ProjectCuoiKi\\ClassLibrary.Repositorries\\ClassLibrary.Repositorries.csproj": {
-              "projectPath": "D:\\Project_Test\\ProjectCuoiKi\\ClassLibrary.Repositorries\\ClassLibrary.Repositorries.csproj"
+            "D:\\Project\\ProjectCuoiKi\\ClassLibrary.Repositorries\\ClassLibrary.Repositorries.csproj": {
+              "projectPath": "D:\\Project\\ProjectCuoiKi\\ClassLibrary.Repositorries\\ClassLibrary.Repositorries.csproj"
             }
           }
         }
